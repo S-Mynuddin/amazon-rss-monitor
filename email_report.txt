@@ -1,0 +1,65 @@
+================================================================================
+AMAZON SP-API UPDATE SUMMARY
+================================================================================
+Generated: 2026-07-05 07:43:33
+Total Updates: 297
+
+ CRITICAL UPDATES (Deprecations/Removals)
+----------------------------------------
+• May 2026 SP-API Release
+  Wed, 27 May 2026 17:10:47 GMT
+  https://developer-docs.amazon/sp-api/changelog/may-2026-sp-api-release
+
+• April 2026 SP-API Release
+  Wed, 29 Apr 2026 17:03:55 GMT
+  https://developer-docs.amazon/sp-api/changelog/april-2026-sp-api-release
+
+• CA Fulfillment by Amazon prep and labeling services will end July 1, 2026
+  Wed, 01 Apr 2026 22:10:07 GMT
+  https://developer-docs.amazon/sp-api/changelog/ca-fulfillment-by-amazon-prep-and-labeling-services-will-end-july-1-2026
+
+• March 2026 SP-API Release
+  Wed, 01 Apr 2026 17:30:23 GMT
+  https://developer-docs.amazon/sp-api/changelog/march-2026-sp-api-release
+
+• Update: Removal of XML Settlement Report and Flat File Settlement Report date changed to November 11, 2026
+  Mon, 09 Mar 2026 18:15:50 GMT
+  https://developer-docs.amazon/sp-api/changelog/update-removal-of-xml-settlement-report-and-flat-file-settlement-report-date-changed-to-november-11-2026
+
+• February 2026 SP-API Release
+  Wed, 25 Feb 2026 20:07:40 GMT
+  https://developer-docs.amazon/sp-api/changelog/february-2026-sp-api-release
+
+• New: Introducing the Orders API v2026-01-01
+  Wed, 28 Jan 2026 19:05:57 GMT
+  https://developer-docs.amazon/sp-api/changelog/new-introducing-the-orders-api-v2026-01-01
+
+• January 2026 SP-API Release
+  Wed, 28 Jan 2026 19:02:56 GMT
+  https://developer-docs.amazon/sp-api/changelog/january-2026-sp-api-release
+
+• Deprecation Reminders - December 2025
+  Mon, 22 Dec 2025 18:54:45 GMT
+  https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-december-2025
+
+• December 2025 SP-API Release
+  Mon, 22 Dec 2025 18:53:49 GMT
+  https://developer-docs.amazon/sp-api/changelog/december-2025-sp-api-release
+
+
+ LATEST 5 UPDATES
+----------------------------------------
+• SP-API Updates: EU FBM Requirements, Product Type Definitions API Title Structure, External Fulfillment API Shipment Status
+  Wed, 01 Jul 2026 20:52:33 GMT
+
+• Update: June updates to listing attribute usage and enumeration values
+  Wed, 10 Jun 2026 19:08:44 GMT
+
+• May 2026 SP-API Release
+  Wed, 27 May 2026 17:10:47 GMT
+
+• New Industry Vertical Pricing Audience Values for Listings Items API
+  Wed, 20 May 2026 21:45:47 GMT
+
+• Update: May updates to listing attribute usage and enumeration values
+  Wed, 06 May 2026 20:26:38 GMT

@@ -1,0 +1,1808 @@
+================================================================================
+AMAZON SP-API CHANGELOG UPDATE
+================================================================================
+Generated: 2026-07-08 08:03:19
+Feed Last Build Date: Unknown
+Total Items in Feed: 297
+
+Source: http://developer-docs.amazon.com/sp-api/changelog.rss
+================================================================================
+
+================================================================================
+PART 1: NEW UPDATES (Since Last Check)
+================================================================================
+✅ No new items found. All updates have been previously sent.
+
+================================================================================
+PART 2: COMPLETE RSS FEED (All Current Items)
+================================================================================
+Total: 297 item(s)
+
+   1. SP-API Updates: EU FBM Requirements, Product Type Definitions API Title Structure, External Fulfillment API Shipment Status
+   Date: Wed, 01 Jul 2026 20:52:33 GMT
+   GUID: 53e8a4f3-6852-3dd7-bd4b-915d6a3730c3
+   Link: https://developer-docs.amazon/sp-api/changelog/sp-api-updates-eu-fbm-requirements-product-type-definitions-api-title-structure-external-fulfillment-api-shipment-status
+   Summary: This week's SP-API updates cover new Fulfilled by Merchant (FBM) performance requirements and handling time changes for EU stores, a modular title structure for non-media product types via the Product Type Definitions API, and a shipment status change for Merchant Fulfillment Network orders in the E...
+
+   2. Update: June updates to listing attribute usage and enumeration values
+   Date: Wed, 10 Jun 2026 19:08:44 GMT
+   GUID: 3952dc7c-cb78-35bd-a1ac-884a5057ebd6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-june-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective June 29, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For a c...
+
+   3. May 2026 SP-API Release
+   Date: Wed, 27 May 2026 17:10:47 GMT
+   GUID: d82e9412-663b-3d4e-9e87-c334fc558c48
+   Link: https://developer-docs.amazon/sp-api/changelog/may-2026-sp-api-release
+   Summary: May 2026 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   4. New Industry Vertical Pricing Audience Values for Listings Items API
+   Date: Wed, 20 May 2026 21:45:47 GMT
+   GUID: a496b0e1-69d3-3eea-b35e-2ade5989d487
+   Link: https://developer-docs.amazon/sp-api/changelog/new-industry-vertical-pricing-audience-values-for-listings-items-api
+   Summary: Starting May 27, 2026 , the Listings Items API will accept new Industry Vertical Pricing (IVP) audience values in the purchasable_offer.audience field for eligible third-party sellers in the US marketplace. The Listings Items API ( /listings/2021-08-01/items/{sellerId}/{sku} ) is expanding the set o...
+
+   5. Update: May updates to listing attribute usage and enumeration values
+   Date: Wed, 06 May 2026 20:26:38 GMT
+   GUID: c25be2bc-aec6-3fd0-bbde-a0d3e1501f18
+   Link: https://developer-docs.amazon/sp-api/changelog/update-may-updates-to-listing-attribute-usage-and-enumeration-values-2
+   Summary: Effective May 25, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For a co...
+
+   6. April 2026 SP-API Release
+   Date: Wed, 29 Apr 2026 17:03:55 GMT
+   GUID: 2071b479-a82e-34a6-b499-018e175504df
+   Link: https://developer-docs.amazon/sp-api/changelog/april-2026-sp-api-release
+   Summary: April 2026 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   7. Update: April updates to listing attribute usage and enumeration values
+   Date: Wed, 15 Apr 2026 18:41:14 GMT
+   GUID: f2a769b7-fd25-3cc2-ba55-d2b09892086a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-april-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective April 27, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For a ...
+
+   8. CA Fulfillment by Amazon prep and labeling services will end July 1, 2026
+   Date: Wed, 01 Apr 2026 22:10:07 GMT
+   GUID: 16f67f5b-842e-3982-931b-425f9a191be9
+   Link: https://developer-docs.amazon/sp-api/changelog/ca-fulfillment-by-amazon-prep-and-labeling-services-will-end-july-1-2026
+   Summary: Starting July 1, 2026 , Amazon will no longer offer prep and item labeling services for Fulfillment by Amazon (FBA) shipments in the CA marketplace. AMAZON will no longer be an accepted value for prepOwner and labelOwner parameters (and responses) across all Fulfillment Inbound API operations in the...
+
+   9. March 2026 SP-API Release
+   Date: Wed, 01 Apr 2026 17:30:23 GMT
+   GUID: 002bf4de-c7b6-333f-8d75-352ef372f024
+   Link: https://developer-docs.amazon/sp-api/changelog/march-2026-sp-api-release
+   Summary: March 2026 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   10. VAT Calculation Service Updates
+   Date: Wed, 25 Mar 2026 21:27:27 GMT
+   GUID: 8a1665f4-93c7-3eea-9fa8-091a2dec600a
+   Link: https://developer-docs.amazon/sp-api/changelog/vat-calculation-service-updates
+   Summary: Starting April 1, 2026 , Amazon is adding a new column to the VAT Calculation Report for Polish e-invoice compliance, and starting June 1, 2026 , the VAT Calculation Service will shift to shipment-level tax calculations across ten EU marketplaces. Refer the the following announcements for more infor...
+
+   11. Addition of Polish E-Invoice Columns to VAT Invoice Data Report
+   Date: Wed, 18 Mar 2026 16:45:49 GMT
+   GUID: 5d7056a1-b394-3dc4-871b-7dcda495bbcc
+   Link: https://developer-docs.amazon/sp-api/changelog/addition-of-polish-e-invoice-columns-to-vat-invoice-data-report
+   Summary: Starting March 27, 2026 , Amazon is adding two new columns to the VAT Invoice Data Report (VIDR) to support upcoming e-invoicing mandates in Poland. These columns will accommodate the Polish National Identification Number (NIP) for both buyers and sellers, as Poland's e-invoicing regulations require...
+
+   12. Update: March updates to listing attribute usage and enumeration values
+   Date: Mon, 09 Mar 2026 21:06:34 GMT
+   GUID: 37ce791e-7942-38a4-b8c2-038a6854a3d6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-march-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective March 30, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers wh...
+
+   13. Update: Removal of XML Settlement Report and Flat File Settlement Report date changed to November 11, 2026
+   Date: Mon, 09 Mar 2026 18:15:50 GMT
+   GUID: 59359039-cb56-35a0-b25f-07ebb4240434
+   Link: https://developer-docs.amazon/sp-api/changelog/update-removal-of-xml-settlement-report-and-flat-file-settlement-report-date-changed-to-november-11-2026
+   Summary: On November 11, 2026 , the following settlement reports will be removed for sellers: XML Settlement Report ( GET_V2_SETTLEMENT_REPORT_DATA_XML ) Flat File Settlement Report ( GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE ) The Flat File V2 Settlement Report ( GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE_V2 ) r...
+
+   14. February 2026 SP-API Release
+   Date: Wed, 25 Feb 2026 20:07:40 GMT
+   GUID: 767b70f4-2753-3c56-8281-ba0b7e170b70
+   Link: https://developer-docs.amazon/sp-api/changelog/february-2026-sp-api-release
+   Summary: February 2026 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   15. Update: February updates to listing attribute usage and enumeration values
+   Date: Mon, 23 Feb 2026 18:22:08 GMT
+   GUID: b2076011-d4a4-312a-9252-c1db9719cb33
+   Link: https://developer-docs.amazon/sp-api/changelog/update-february-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective February 23, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers...
+
+   16. New: Introducing the Orders API v2026-01-01
+   Date: Wed, 28 Jan 2026 19:05:57 GMT
+   GUID: b0ebac0c-9c59-30f0-b713-51cf33d8bb1f
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-the-orders-api-v2026-01-01
+   Summary: We are excited to announce the new Orders API v2026-01-01 . You can use this API to: Fetch all order information in single API request Simplify your integration with fewer endpoints Achieve selective data fetching using includedData parameters Fetch package information such as tracking information f...
+
+   17. January 2026 SP-API Release
+   Date: Wed, 28 Jan 2026 19:02:56 GMT
+   GUID: a4cdec51-cca0-320e-829f-25f4d8053643
+   Link: https://developer-docs.amazon/sp-api/changelog/january-2026-sp-api-release
+   Summary: January 2026 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   18. Update: January updates to listing attribute usage and enumeration values
+   Date: Tue, 06 Jan 2026 21:00:31 GMT
+   GUID: c7ab7afc-2b3a-363f-a860-1fdda446b0f7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-january-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective January 26, 2026 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers ...
+
+   19. Update: Finances API v0 now supports EBT payments
+   Date: Tue, 30 Dec 2025 00:49:07 GMT
+   GUID: 5a935662-03a9-3875-8974-b79246849262
+   Link: https://developer-docs.amazon/sp-api/changelog/update-finances-api-v0-now-supports-ebt-payments
+   Summary: Financial events that the following operations return can now contain EBTRefundReimbursementOnlyEventList , which is a list of EBT refund reimbursement events: listFinancialEvents listFinancialEventsByGroupId listFinancialEventsByOrderId EBT payments require that all transactions are between the sel...
+
+   20. Deprecation Reminders - December 2025
+   Date: Mon, 22 Dec 2025 18:54:45 GMT
+   GUID: d411029f-89c0-3b8b-b0ee-d6719e1c6a8c
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-december-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Data...
+
+   21. December 2025 SP-API Release
+   Date: Mon, 22 Dec 2025 18:53:49 GMT
+   GUID: d7fc29c3-b69f-3271-83e8-18f5f0c9b64e
+   Link: https://developer-docs.amazon/sp-api/changelog/december-2025-sp-api-release
+   Summary: November 2025 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   22. Update: Upcoming changes to the VAT Calculation Report
+   Date: Tue, 16 Dec 2025 21:34:13 GMT
+   GUID: 6df09a7e-048b-37db-9f17-64a0497728aa
+   Link: https://developer-docs.amazon/sp-api/changelog/update-upcoming-changes-to-the-vat-calculation-report
+   Summary: On January 1, 2026 , the column names of the following e-invoicing related columns in the VAT Calculation Report (VCR) will be updated in order to adhere to e-invoicing mandates in the EU. Existing Field Name New Field Name Description SDI Invoice Delivery Status E-Invoice Delivery Status Status of ...
+
+   23. Validation Preview mode error code changes in the Listings Items API
+   Date: Mon, 15 Dec 2025 23:39:32 GMT
+   GUID: 78437e69-e19e-33d5-a315-5f03cdfa9304
+   Link: https://developer-docs.amazon/sp-api/changelog/validation-preview-mode-error-code-changes-in-the-listings-items-api
+   Summary: The Validation Preview mode of the Listings Items API now returns updated error codes in validation responses. You can use these updated error codes to receive more comprehensive and accurate validation feedback when validating listings. This change affects only the Validation Preview mode ( mode=VA...
+
+   24. Correction: Traffic data is not available in the sourcing view query of the Data Kiosk Vendor Analytics dataset
+   Date: Tue, 09 Dec 2025 23:14:44 GMT
+   GUID: 1d12ee34-0e53-3f75-93ce-0fe93ab3caa7
+   Link: https://developer-docs.amazon/sp-api/changelog/correction-traffic-data-is-not-available-in-the-sourcing-view-query-of-the-data-kiosk-vendor-analytics-dataset
+   Summary: On December 3, 2025 , we announced that lostFeaturedOffer was added to the Traffic data in the Vendor Analytics dataset provided by Data Kiosk . Initially, we stated that this data was available in both the manufacturingView and sourcingView queries. This is incorrect. The Traffic data, including th...
+
+   25. Deprecation Reminders - November 2025
+   Date: Wed, 03 Dec 2025 23:00:29 GMT
+   GUID: 63d768f7-47e8-329c-98ff-f5dbe38b769f
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-november-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Data...
+
+   26. November 2025 SP-API Release
+   Date: Wed, 03 Dec 2025 18:30:09 GMT
+   GUID: 7ea72197-e0b5-3788-bbb1-d1141ad972b3
+   Link: https://developer-docs.amazon/sp-api/changelog/november-2025-sp-api-release
+   Summary: November 2025 SP-API Release Notes are now available! For more information, refer to Release Notes . For detailed information about SP-API deprecations, refer to Deprecation Schedule .
+
+   27. Update: December updates to listing attribute usage and enumeration values
+   Date: Mon, 17 Nov 2025 18:23:17 GMT
+   GUID: fd913c1c-9cbd-3bb3-8a5f-8393f12a61dd
+   Link: https://developer-docs.amazon/sp-api/changelog/update-december-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective December 14, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers...
+
+   28. Updates to the Data Protection Policy and Acceptable Use Policy
+   Date: Mon, 10 Nov 2025 16:55:17 GMT
+   GUID: e0481d67-5366-309b-9889-cb0699ba3ad9
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-the-data-protection-policy-and-acceptable-use-policy
+   Summary: Effective November 25, 2025 , we are updating the Data Protection Policy (DPP) and the Acceptable Use Policy (AUP) . These updates may require changes to your existing security controls. Your continued use of Amazon Services API after November 25, 2025 constitutes your acceptance of the updated agre...
+
+   29. Update: November updates to listing attribute usage and enumeration values
+   Date: Mon, 03 Nov 2025 17:58:47 GMT
+   GUID: 3f58d6f8-be5e-3fa9-9d74-31742fda04f7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-november-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective November 9, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers ...
+
+   30. Update: October updates to listing attribute usage and enumeration values
+   Date: Tue, 14 Oct 2025 14:17:20 GMT
+   GUID: 416185e4-5e5b-38ac-b115-60a6288e4e90
+   Link: https://developer-docs.amazon/sp-api/changelog/update-october-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective October 26, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers ...
+
+   31. Update: VAT bottle deposit amount updates for the VAT Invoice Data Report
+   Date: Tue, 07 Oct 2025 20:04:21 GMT
+   GUID: 975cddb7-493c-3448-95f2-307587967840
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vat-bottle-deposit-amount-updates-for-the-vat-invoice-data-report
+   Summary: Effective October 9, 2025 , the VAT Invoice Data Report (VIDR) will include bottle-deposit-vat-excl-amount and bottle-deposit-vat-amount . VAT Invoice Data Report (VIDR) : item-vat-incl-amount : VAT inclusive item price. There is no change to this field. item-vat-amount : VAT amount of item price. T...
+
+   32. Enum value removal from the Data Kiosk Analytics Economics dataset on December 17, 2025
+   Date: Tue, 07 Oct 2025 17:19:35 GMT
+   GUID: 79942609-16d6-3470-bfb1-1ffbb45f57a3
+   Link: https://developer-docs.amazon/sp-api/changelog/enum-value-removal-from-the-data-kiosk-analytics-economics-dataset-on-october-30-2025
+   Summary: The FNSKU value in the ProductIdentifierGranularity enum of the Analytics Economics dataset will be removed on December 17, 2025 . What marketplaces are affected? This change applies to all marketplaces. Who is affected? The change affects developers who use the FNSKU value of the ProductIdentifierG...
+
+   33. New metrics and group-by attribute in the Vendor Analytics Data Kiosk dataset
+   Date: Mon, 06 Oct 2025 19:51:35 GMT
+   GUID: 07ff2404-b3a0-3133-bc4d-1858e0a858a0
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-metrics-in-the-vendor-analytics-dataset-for-data-kiosk
+   Summary: The Vendor Analytics Data Kiosk dataset now includes the customerReviews and customerReturnTopics metrics. What is changing? The Vendor Analytics dataset in Data Kiosk now includes the following metrics: customerReviews : This metric contains information about customer reviews, such as the most posi...
+
+   34. Update: Improved navigation for SP-API code samples
+   Date: Mon, 06 Oct 2025 18:20:36 GMT
+   GUID: a7d080ee-dc6e-3fa1-94ad-46d8c69e6306
+   Link: https://developer-docs.amazon/sp-api/changelog/update-improved-navigation-for-sp-api-code-samples
+   Summary: We're excited to announce a major update to our code samples section . The newly restructured section organizes all samples by their corresponding APIs, making it easier to find the examples you need for your specific integration tasks. These code samples demonstrate how to implement common tasks, i...
+
+   35. Update: Easy Ship API value formats for measurement, pickup, dropoff, and timestamp now match actual values returned
+   Date: Wed, 01 Oct 2025 22:03:38 GMT
+   GUID: d1a3b416-1f78-3935-80bb-2a2e58ecac4a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-easy-ship-api-value-formats-for-measurement-pickup-dropoff-and-timestamp-now-match-actual-values-returned
+   Summary: We previously announced that the Easy Ship API value formats for measurement, pickup, dropoff, and timestamp would change on November 26, 2025 . This implementation date was rescheduled and is available now. What has changed? The value formats for measurement, pickup, dropoff, and timestamp in the E...
+
+   36. Update: Vendor Direct Fulfillment Orders API v2021-12-28 now includes hasCustomizableItems
+   Date: Wed, 01 Oct 2025 21:58:45 GMT
+   GUID: ff314079-10bd-39f9-a3c4-8f0bb289bdba
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-direct-fulfillment-orders-api-v2021-12-28-now-includes-hascustomizableitems
+   Summary: The getOrder and getOrders operations now return the hasCustomizableItems attribute. You can use this attribute to determine if an order has customizable items.
+
+   37. Update: Request signature confirmation with Fulfillment Outbound v2020-07-01
+   Date: Wed, 01 Oct 2025 21:44:10 GMT
+   GUID: 9374f51f-3e24-328c-9452-87471a72e44a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-request-signature-confirmation-with-fulfillment-outbound-v2020-07-01
+   Summary: You can now request signature confirmation upon delivery with the Fulfillment Outbound API. To require a signature from the recipient upon delivery, set featureName in featureConstraints to SIGNATURE_CONFIRMATION in your createFulfillmentOrder request. Signature confirmation is only supported in the...
+
+   38. New: Introducing the External Fulfillment APIs v2024-09-11
+   Date: Wed, 01 Oct 2025 21:42:05 GMT
+   GUID: 2c324434-daa5-3b6f-a985-b07d3200442e
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-the-external-fulfillment-apis-v2024-09-11
+   Summary: Announcing the External Fulfillment APIs: External Fulfillment Inventory External Fulfillment Returns External Fulfillment Shipping These APIs allow programmatic handling of inventory, returns, and shipping across multiple external fulfillment channels, including Seller Flex, Easy Ship, Self Ship, a...
+
+   39. Deprecation Reminders - September 2025
+   Date: Wed, 01 Oct 2025 17:09:43 GMT
+   GUID: af412daa-6555-37ff-b8ee-b4573637d860
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-september-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Data...
+
+   40. Update: Merchant Fulfillment API v0 changes to getEligibleShippingServices operation
+   Date: Wed, 01 Oct 2025 17:08:15 GMT
+   GUID: 289ac1f4-73f2-3159-a1d8-26995b43665a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-merchant-fulfillment-api-v0-changes-to-geteligibleshippingservices-operation
+   Summary: The Merchant Fulfillment API has the following updates to the getEligibleShippingServices operation: The response now includes a ShippingService.AdjustmentItemList array that shows the Fulfilled by Merchant (FBM) Ship+ cashback amounts. A new ShippingService.RateWithAdjustments field is available to...
+
+   41. Update: Orders v0 API changes to getOrderAddress
+   Date: Mon, 15 Sep 2025 15:36:39 GMT
+   GUID: 54e4c69b-b844-381d-96d7-1ae5592209de
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-v0-api-changes-to-getorderaddress
+   Summary: Starting September 24, 2025 , the Name response attribute for the getOrderAddress operation will change from required to optional. Currently, the getOrderAddress response does not return Name for every response payload. Which marketplaces are affected? This change applies to all marketplaces. Who is...
+
+   42. Update: September updates to listing attribute usage and enumeration values
+   Date: Wed, 10 Sep 2025 21:00:04 GMT
+   GUID: 9ed24434-a84b-3bb3-be0a-7b1cc9c91b78
+   Link: https://developer-docs.amazon/sp-api/changelog/update-september-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective September 28, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developer...
+
+   43. Upcoming removal of unused variation themes in the Listings Items API
+   Date: Wed, 03 Sep 2025 19:54:47 GMT
+   GUID: 9d14ab8d-a88b-3616-a197-6ccb299cb96e
+   Link: https://developer-docs.amazon/sp-api/changelog/upcoming-removal-of-unused-variation-themes-in-the-listings-items-api
+   Summary: To simplify the listing experience, variation themes with no sales in the past 12 months will be removed from product templates and the Listings Items API. This change will occur between September 15, 2025 and November 30, 2025 . We marked the impacted themes under Lifecycle: EnumDeprecated for the ...
+
+   44. Update: Delivery by Amazon API documentation is now available on the global Selling Partner API website
+   Date: Fri, 29 Aug 2025 18:14:32 GMT
+   GUID: e077208f-3039-3340-a078-0b4c48752bfd
+   Link: https://developer-docs.amazon/sp-api/changelog/update-delivery-by-amazon-api-documentation-is-now-available-on-the-global-selling-partner-api-website
+   Summary: The Delivery by Amazon API (DBA API) documentation is now available on the global Selling Partner API website. Previously, this content was only available on the Latin America Selling Partner API website, which will be removed on August 31, 2025. The Delivery by Amazon API is a Restricted Availabili...
+
+   45. Update: Payment field changes for the getOrders operation for Brazil marketplace
+   Date: Thu, 28 Aug 2025 17:03:45 GMT
+   GUID: 2f89da41-acc5-3d0d-8c01-5fc106d9f6ed
+   Link: https://developer-docs.amazon/sp-api/changelog/update-payment-field-changes-for-the-getorders-operation-for-brazil-marketplace
+   Summary: The PaymentExecutionDetail response array for the getOrders operation now includes the following payment fields to help Brazil (BR) marketplace sellers track payment transactions more effectively: AcquirerId : The Brazilian Taxpayer Identifier (CNPJ) of the payment processor or acquiring bank that a...
+
+   46. Update: Track Multi-Channel Fulfillment (MCF) packages with the Fulfillment Outbound API
+   Date: Wed, 27 Aug 2025 18:04:20 GMT
+   GUID: 27dd37e5-88a7-3906-a315-1a2115d3e5d2
+   Link: https://developer-docs.amazon/sp-api/changelog/update-track-multi-channel-fulfillment-mcf-packages-with-the-fulfillment-outbound-api
+   Summary: The getFulfillmentOrder operation now returns the amazonFulfillmentTrackingNumber property. You can use this property in your request to the getPackageTrackingDetails operation to track Multi-Channel Fulfillment (MCF) packages.
+
+   47. Update: Fulfillment Inbound available in the Turkey marketplace
+   Date: Wed, 27 Aug 2025 18:01:16 GMT
+   GUID: 6dd4edfb-6f07-3794-a6d3-b227c294115a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-inbound-available-in-the-turkey-marketplace
+   Summary: The sourceAddress property used in the requests to createInboundPlan and updateShipmentSourceAddress now contains the districtOrCounty property. This change enables you to use the Fulfillment Inbound API to create shipments in the Turkey marketplace. The districtOrCounty property will appear in the ...
+
+   48. Analytics Sales and Traffic Data Kiosk datasets update and deprecation
+   Date: Wed, 27 Aug 2025 17:59:47 GMT
+   GUID: 3113a0c0-c2ee-312c-90d1-cb82a52597e7
+   Link: https://developer-docs.amazon/sp-api/changelog/analytics-sales-and-traffic-data-kiosk-datasets-update-and-deprecation
+   Summary: The following Data Kiosk datasets have updates. Analytics Sales and Traffic v2024-04-24 The analytics_salesAndTraffic_2024_04_24 dataset now offers the salesAndTrafficTrends query, which provides ASIN-level trend analysis, and combines existing by-ASIN and by-date views to provide daily, weekly, or ...
+
+   49. Update: Seller Performance report now includes unitOnTimeDeliveryRate
+   Date: Wed, 27 Aug 2025 17:54:24 GMT
+   GUID: 9dc2606d-54f9-30a4-a899-130b905c031a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-seller-performance-report-now-includes-unitontimedeliveryrate
+   Summary: The Seller Performance report ( GET_V2_SELLER_PERFORMANCE_REPORT ) now includes the unitOnTimeDeliveryRate response attribute. You can use this attribute to get a seller's on-time delivery rate at a unit level within a reporting date range for one marketplace that you specify. This change applies to...
+
+   50. Update: Product Fees API v0 changes to feeTransactionId operation and itemPrice field
+   Date: Wed, 27 Aug 2025 16:29:54 GMT
+   GUID: 49295605-0299-3c26-b8a1-613bd8c5ec3b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-fees-api-v0-changes-to-feetransactionid-operation-and-itemprice-field
+   Summary: The Product Fees API v0 has the following updates: The previewContext attribute no longer supports the itemPrice field. The response of the feeTransactionId operation changes from feeTransactionContext to transactionContext . Which marketplaces are affected? This change applies to all marketplaces. ...
+
+   51. Deprecation Reminders - August 2025
+   Date: Wed, 27 Aug 2025 04:57:49 GMT
+   GUID: ba8d3dfc-064f-33cc-b4f5-f256dc7c383b
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-august-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Data...
+
+   52. New: Introducing the Seller Wallet API v2024-03-01
+   Date: Tue, 26 Aug 2025 23:14:23 GMT
+   GUID: 79a3ae9a-42c8-3ea4-ad29-08949adc497c
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-the-seller-wallet-api-v2024-03-01
+   Summary: Announcing the Seller Wallet API , which you can use to retrieve financial information that is relevant to a Seller's Seller Wallet account. You can obtain financial events, balances, and transfer schedules for Seller Wallet accounts. You can also schedule and initiate transactions. For more informa...
+
+   53. Delivery photos are now available for MCF orders in NA and EU marketplaces
+   Date: Tue, 26 Aug 2025 16:02:47 GMT
+   GUID: 08616aab-cf6f-3e6c-a01c-a74fff27a137
+   Link: https://developer-docs.amazon/sp-api/changelog/delivery-photos-are-now-available-for-mcf-orders-in-na-and-eu-marketplaces
+   Summary: Effective August 20, 2025 , the getFulfillmentOrder operation provides delivery photos for eligible Multi-Channel Fulfillment (MCF) orders that use Amazon logistics as the last mile carrier. Which marketplaces are affected? Delivery photos are now available in the following marketplaces as well: CA ...
+
+   54. Shipment Invoicing and Orders APIs to provide new payment data for the Brazil marketplace
+   Date: Tue, 19 Aug 2025 17:12:11 GMT
+   GUID: 635f9b68-628e-3c0c-adb8-917696d4f12f
+   Link: https://developer-docs.amazon/sp-api/changelog/shipment-invoicing-and-orders-apis-to-provide-new-payment-data-for-the-brazil-marketplace
+   Summary: Starting August 28, 2025 , the following operations will return new payment fields: getShipmentDetails will return new payment fields for new Seller Flex (FBA Onsite) shipments. getOrders will return new payment fields for new Self Ship (MFN) and Easy Ship (DBA) orders. Shipment Invoicing API (Selle...
+
+   55. Update: Battery compliance for Merchant Fulfillment Network (MFN)
+   Date: Wed, 06 Aug 2025 19:25:52 GMT
+   GUID: 9c05d68c-05fb-304a-a321-03e73125c4d5
+   Link: https://developer-docs.amazon/sp-api/changelog/update-battery-compliance-for-merchant-fulfillment-network-mfn
+   Summary: Starting August 25, 2025 , you must complete battery safety compliance questions when you create or edit any Fulfilled by Merchant product listings that contain batteries or battery-powered items. When you create a listing, you will now see the following questions: Are batteries required? If you ans...
+
+   56. Update: August updates to listing attribute usage and enumeration values
+   Date: Mon, 04 Aug 2025 16:29:15 GMT
+   GUID: db8775da-0fef-30d0-a7fe-1d26e7113ca4
+   Link: https://developer-docs.amazon/sp-api/changelog/update-august-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective August 24, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers w...
+
+   57. US FBA prep and labeling services to end January 1, 2026
+   Date: Mon, 28 Jul 2025 22:03:24 GMT
+   GUID: 051a6d68-2e17-32da-86e7-4d45743f81b4
+   Link: https://developer-docs.amazon/sp-api/changelog/us-fba-prep-and-labeling-services-to-end-january-1-2026
+   Summary: Starting January 1, 2026 , prep and item labeling services for Fulfillment by Amazon (FBA) shipments will no longer be available in the US marketplace. This change applies to all inventory that is sent to the US FBA service. This includes: Inventory sent directly to FBA Inventory that goes through F...
+
+   58. Update to getOrder and getOrders
+   Date: Mon, 28 Jul 2025 14:48:26 GMT
+   GUID: d5fec038-8816-3596-bc32-2ffbb9e33460
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-getorder-and-getorders
+   Summary: Starting August 11, 2025 , the EasyShipShipmentStatus attribute in the getOrders and getOrder operations will return the PendingSchedule value for new Easy Ship orders until they are scheduled for shipment. You can use the PendingSchedule value to identify Easy Ship orders from other fulfillment cha...
+
+   59. Deprecation of listFinancialEvents, listFinancialEventsByGroupId, and listFinancialEventsByOrderId operations in Finances API v0
+   Date: Mon, 21 Jul 2025 20:53:47 GMT
+   GUID: 82655619-7998-33de-a057-f4445d83ba37
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-finances-v0-operations
+   Summary: The following operations are deprecated and will be removed on August 27, 2027 : listFinancialEvents listFinancialEventsByGroupId listFinancialEventsByOrderId What action is required? If you use any of the deprecated operations, you must migrate to the listTransactions operation in the Finances API ...
+
+   60. getFulfillmentPreview timestamp format update for Japan
+   Date: Tue, 15 Jul 2025 18:35:18 GMT
+   GUID: 22b39674-4397-34f5-9279-d38dd17998b1
+   Link: https://developer-docs.amazon/sp-api/changelog/getfulfillmentpreview-timestamp-format-update-for-japan
+   Summary: The getFulfillmentPreview operation currently returns delivery dates as a UNIX timestamp in the Japan marketplace instead of the documented ISO 8601 format. Starting August 27, 2025 , getFulfillmentPreview will return all timestamps in ISO 8601 format. Who does this affect? This change affects selle...
+
+   61. Update: July updates to Listing attribute usage and enumeration values
+   Date: Wed, 09 Jul 2025 20:20:07 GMT
+   GUID: 23d38261-6d33-3aee-a313-d8da23bc0de7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-july-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective July 27, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers who...
+
+   62. Update: Data Kiosk economics dataset includes more fee types
+   Date: Mon, 07 Jul 2025 21:49:00 GMT
+   GUID: 96c881d0-2ef2-39f5-916a-86282b7bcf57
+   Link: https://developer-docs.amazon/sp-api/changelog/update-data-kiosk-economics-dataset-includes-more-fee-types
+   Summary: The Data Kiosk Economics dataset now includes three new fees: FBA_INBOUND_PLACEMENT_SERVICE_FEE DIGITAL_SERVICES_FEE_SOA DIGITAL_SERVICES_FEE_FBA For more information about these fees, refer to FBA inbound placement service fee and Digital services fees .
+
+   63. Update: Increased rate limits for Listings Items API relationship operations
+   Date: Mon, 30 Jun 2025 22:37:05 GMT
+   GUID: de73adae-c6d9-3a56-bb1b-b74bb9dd1aff
+   Link: https://developer-docs.amazon/sp-api/changelog/update-increased-rate-limits-for-listings-items-api-relationship-operations
+   Summary: On May 6, 2025, we communicated that resubmitting the child_parent_sku_relationship attribute could cause delays in the JSON_LISTINGS_FEED processing. We have now implemented a change to improve processing speed to help resolve these delays. In addition, we have increased the rate limit to allow add...
+
+   64. Deprecation Reminders - June 2025
+   Date: Wed, 25 Jun 2025 19:07:00 GMT
+   GUID: 6ce306d3-0a67-366b-8e0f-29da37372024
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-june-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Feed...
+
+   65. Update: Search Query Performance Report now includes support to query multiple ASINs
+   Date: Wed, 25 Jun 2025 18:00:57 GMT
+   GUID: fdeb0af4-a16a-3a23-93be-7fa9e5611709
+   Link: https://developer-docs.amazon/sp-api/changelog/update-search-query-performance-report-now-includes-support-to-query-multiple-asins
+   Summary: The Search Query Performance Report ( GET_BRAND_ANALYTICS_SEARCH_QUERY_PERFORMANCE_REPORT ) now supports the ability to query a space-separated list of Amazon Standard Identification Numbers (ASINs). There is a 200 character limit. This change applies to all marketplaces.
+
+   66. Update: Orders v0 API now supports FBM Ship+
+   Date: Wed, 25 Jun 2025 17:44:42 GMT
+   GUID: 34c454f1-e6c1-39ef-864b-7e0df2ecf9c6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-v0-api-now-supports-fbm-ship
+   Summary: The AmazonPrograms response object for the Orders v0 API getOrderItems operation now supports FBM Ship+ ( FBM_SHIP_PLUS ). You can use this value to determine if an order item is part of the FBM Ship+ program. For more information, refer to getOrderItems . This change applies to all marketplaces.
+
+   67. Deprecation of two FBA Subscribe and Save report types
+   Date: Wed, 25 Jun 2025 17:37:07 GMT
+   GUID: ba382195-5c0e-3115-8e75-269aa2a72bbe
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-two-fba-subscribe-and-save-report-types
+   Summary: The Subscribe and Save Forecast Report ( GET_FBA_SNS_FORECAST_DATA ) and the Subscribe and Save Performance Report ( GET_FBA_SNS_PERFORMANCE_DATA ) within the Reports API v2021-06-30 are being deprecated. These report types will be removed on December 11, 2025 . Effective July 25, 2025 , calls to bo...
+
+   68. New: Introducing the Customer Feedback API v2024-06-01
+   Date: Wed, 25 Jun 2025 17:30:46 GMT
+   GUID: 9bd052a2-8f45-334c-b0ba-4f993f99fb32
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-the-customer-feedback-api-v2024-06-01
+   Summary: Announcing the Customer Feedback API v2024-06-01 , which you can use to retrieve insights from customer reviews and returns. This API provides the same information as the Product Opportunity Explorer (OX) on Seller Central and Vendor Central. Review insights are available at the ASIN and browse node...
+
+   69. Update: Rate limit increase for some Fulfillment Inbound API operations
+   Date: Wed, 25 Jun 2025 17:29:35 GMT
+   GUID: 9fc326d9-e1c8-3d83-a911-2beb7a2638c0
+   Link: https://developer-docs.amazon/sp-api/changelog/update-rate-limit-increase-for-some-fulfillment-inbound-api-operations
+   Summary: The following operations in the Fulfillment Inbound APIs now have a rate limit of five requests per second, up from their previous limit of two: Fulfillment Inbound API v2024-03-20 getShipment listShipmentBoxes listDeliveryWindowOptions listTransportationOptions getInboundOperationStatus Fulfillment...
+
+   70. Update: Finances API v2024-06-19 can filter by transaction status
+   Date: Wed, 25 Jun 2025 17:28:34 GMT
+   GUID: 7a8a2f4d-71e6-324b-9302-cda634dfbe2c
+   Link: https://developer-docs.amazon/sp-api/changelog/update-finances-api-v2024-06-19-can-filter-by-transaction-status
+   Summary: The listTransactions operation of the Finances API v2024-06-19 can now filter by transaction status. Include the transactionStatus query parameter in your request and set it to the transaction status you want included in the response. Possible values are RELEASED , DEFERRED , and DEFERRED_RELEASED .
+
+   71. Update: Finances API v2024-06-19 identifies Amazon Haul transactions
+   Date: Wed, 25 Jun 2025 17:27:42 GMT
+   GUID: a15d2b41-fd9b-3c1a-a5f5-c62a37a18b49
+   Link: https://developer-docs.amazon/sp-api/changelog/update-finances-api-v2024-06-19-identifies-amazon-haul-transactions
+   Summary: The listTransactions operation now identifies Amazon Haul transactions. If a transaction is an Amazon Haul transaction, the storeName property of the listTransactions response is equal to AMAZON_HAUL . The Amazon Haul program is only available in the US marketplace.
+
+   72. Update: Product Pricing API v2022-05-01 returns new competitive price and deprecates CompetitivePriceThreshold
+   Date: Wed, 25 Jun 2025 17:06:07 GMT
+   GUID: 00b6ab30-4625-3407-b140-ad533e22a4d4
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-pricing-api-v2022-05-01-returns-new-competitive-price-and-deprecates-competitivepricethreshold
+   Summary: The Product Pricing API v2022-05-01 has the following updates: The getCompetitiveSummary operation now includes CompetitivePrice . This value represents the lowest price for an item, that customers may consider to be equivalent, recently found at another reputable retailer outside of the Amazon stor...
+
+   73. Update: Listings Items API now returns granular rate limit throttle messages
+   Date: Wed, 25 Jun 2025 16:54:29 GMT
+   GUID: 2d7a31bf-414a-3f59-b567-832cd2f326ac
+   Link: https://developer-docs.amazon/sp-api/changelog/update-listings-items-api-now-returns-granular-rate-limit-throttle-messages
+   Summary: The putListingsItem and patchListingsItem operations of the Listings Items API now return information on the granular rate limit throttle messages based on the rate limit level that the request is throttled by. For more information, refer to Listings Items API Rate Limits . This change applies to Li...
+
+   74. Update: Removal date of Feeds API support for XML and flat file Listings Feeds changed to July 31, 2025
+   Date: Mon, 23 Jun 2025 17:43:45 GMT
+   GUID: 2be55a25-365d-3120-aabb-d213e9d79e26
+   Link: https://developer-docs.amazon/sp-api/changelog/update-removal-date-of-feeds-api-support-for-xml-and-flat-file-listings-feeds-changed-to-july-31-2025-1
+   Summary: The removal date for the following feed type values has changed from June 30, 2025 to July 31, 2025 . After this additional grace period, these feed types will no longer be functional starting July 31, 2025: POST_PRODUCT_DATA POST_INVENTORY_AVAILABILITY_DATA POST_PRODUCT_OVERRIDES_DATA POST_PRODUCT_...
+
+   75. New: Prebuilt SP-API SDKs for C#
+   Date: Wed, 18 Jun 2025 20:06:10 GMT
+   GUID: 87add532-e7ef-36d0-aba0-eb89979b4bdb
+   Link: https://developer-docs.amazon/sp-api/changelog/new-prebuilt-sp-api-sdks-for-c
+   Summary: We are excited to announce the release of a prebuilt C# SDK for SP-API. The C# SDK provides a ready-to-use solution, reduces the need for manual setup, and keeps your applications aligned with the latest SP-API updates. While we are introducing the new prebuilt SDK, our existing SDK generation tools...
+
+   76. New: Deferred Transaction Report type for the Reports API
+   Date: Mon, 16 Jun 2025 19:25:11 GMT
+   GUID: 81899c83-7c4f-35b4-9349-070903cc7e12
+   Link: https://developer-docs.amazon/sp-api/changelog/new-deferred-transaction-report-type-for-the-reports-api
+   Summary: We are excited to announce the new Deferred Transaction Report type ( GET_DATE_RANGE_FINANCIAL_HOLDS_DATA ) for the Reports v2021-06-30 API. The Deferred Transaction Report is a point-in-time report that contains a list of deferred transactions. A single report can provide up to 10 years of data. Yo...
+
+   77. Update: Listings Items v2021-08-01 API and JSON_LISTING_FEED now include a JSON patch merge operation
+   Date: Mon, 16 Jun 2025 18:16:14 GMT
+   GUID: 0eb785cc-f1c2-39f3-8133-4c049fd3fac4
+   Link: https://developer-docs.amazon/sp-api/changelog/update-listings-items-v2021-08-01-api-and-json_listing_feed-now-include-a-json-patch-merge-operation
+   Summary: The Listings Item v2021-08-01 API and JSON_LISTING_FEED now include a JSON patch merge operation. You can use this operation to: Update the quantity field within the fulfillmentAvailability without including optional fields like restock_date and lead_time_to_ship_max_days . Delete the quantity_disco...
+
+   78. Update: June updates to Listing attribute usage and enumeration values
+   Date: Wed, 04 Jun 2025 17:41:26 GMT
+   GUID: c115ba18-b74e-35be-bc29-e9c2afd955a6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-june-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective June 29, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers who...
+
+   79. Product Type Definition Changes - XSD to JSON migration requirements
+   Date: Mon, 02 Jun 2025 17:41:59 GMT
+   GUID: b5b79651-8c81-362a-9105-ee14e0c4e824
+   Link: https://developer-docs.amazon/sp-api/changelog/reminder-december-2023-product-type-definition-changes-xsd-to-json-migration-requirements
+   Summary: This communication follows up on attribute requirement changes implemented across Amazon's listing experiences that affect the creation and editing of product listings across all global stores. As developers migrate from legacy feed types (XML &amp; flat files) to JSON-based Listings Items APIs, the...
+
+   80. Deprecation Reminders - May 2025
+   Date: Wed, 28 May 2025 18:47:57 GMT
+   GUID: b545682f-d4ec-3a9d-82fd-815225b2ea2a
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-may-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Feed...
+
+   81. Update: Enum value changes for the getCompetitiveSummary operation
+   Date: Wed, 28 May 2025 17:49:50 GMT
+   GUID: a8d4a1d9-b08c-3fd1-9f22-1fb09858899b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-enum-value-changes-for-the-getcompetitivesummary-operation
+   Summary: Effective May 28, 2025 , the model of the getCompetitiveSummary operation has the following changes to enum values: The customerMembership operation used in the FeaturedOfferSegment output has a new enum value, DEFAULT . The customerMembership operation now supports the following values: PRIME NON-P...
+
+   82. Update: Sales API can be used to retrieve sales metrics for the Amazon Haul program
+   Date: Wed, 28 May 2025 16:29:52 GMT
+   GUID: b04f13c5-0680-34de-b4bd-7f8f053c5c06
+   Link: https://developer-docs.amazon/sp-api/changelog/update-sales-api-can-be-used-to-retrieve-sales-metrics-for-the-amazon-haul-program
+   Summary: The getOrderMetrics operation of the Sales API now has an optional query parameter amazonProgram that can be used to retrieve sales metrics for the Amazon Haul program. The Amazon Haul program available in the following marketplaces: United States United Kingdom Germany Saudi Arabia
+
+   83. Deprecation of Catalog Items v0 API
+   Date: Wed, 21 May 2025 19:15:24 GMT
+   GUID: be5ce54f-f5fc-3802-a685-9a27b8ad7b0e
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-catalog-items-v0-api
+   Summary: Effective March 31, 2026 , the listCatalogCategories operation will no longer be available for sellers. As a result, the entire Catalog Items v0 API will no longer be supported in the Selling Partner API. Applications that rely on this API must migrate to Catalog Items v2022-04-01 API to avoid servi...
+
+   84. Newly generated clients for the Sales API will contain additional parameter
+   Date: Fri, 16 May 2025 17:12:03 GMT
+   GUID: 0fb3672a-c67e-35c7-a1ef-91020a5a052f
+   Link: https://developer-docs.amazon/sp-api/changelog/newly-generated-clients-for-the-sales-api-will-contain-additional-parameter
+   Summary: Starting May 28, 2025 , the getOrderMetrics operation in the Sales API will have a new parameter amazonProgram . This parameter is not required, but clients generated from the May 28 release will have an additional parameter for which an argument will need to be supplied. This argument can be null ....
+
+   85. New: Prebuilt SP-API SDKs for JavaScript and Python
+   Date: Wed, 14 May 2025 20:20:54 GMT
+   GUID: ea51c7da-a3fd-3089-ab28-313d47d7df30
+   Link: https://developer-docs.amazon/sp-api/changelog/new-prebuilt-sp-api-sdks-for-javascript-and-python-1
+   Summary: We are excited to announce the release of prebuilt JavaScript and Python SDKs for SP-API. These SDKs provide a ready-to-use solution, reduce the need for manual setup, and keep your applications aligned with the latest SP-API updates. While we are introducing these new prebuilt SDKs, our existing SD...
+
+   86. Update: Recommended packing options available in the Fulfillment Inbound API
+   Date: Tue, 13 May 2025 20:31:20 GMT
+   GUID: 9654635f-ccd5-33cd-9a41-8098af83a591
+   Link: https://developer-docs.amazon/sp-api/changelog/update-recommended-packing-options-available-in-the-fulfillment-inbound-api
+   Summary: Amazon-recommended packing options are now available in the Fulfillment Inbound API v2024-03-20. This program provides suggested pack groups in the listPackingOptions response, which represent optimized SKU groupings that help distribute a seller’s products across Amazon's fulfillment network. These...
+
+   87. Update: Breaking change for the getCompetitiveSummary operation
+   Date: Wed, 07 May 2025 19:48:52 GMT
+   GUID: 40cf190b-dc9a-3285-ab1a-6d6c4eca5e0a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-values-for-the-getcompetitivesummary-operation
+   Summary: Starting May 28, 2025, the getCompetitiveSummary operation will have a new enum value. What's Changing? The customerMembership property in the getCompetitiveSummary response has a new enum value, DEFAULT . customerMembership will support the following values: PRIME NON-PRIME DEFAULT Which marketplac...
+
+   88. Update: Feed size and rate limit changes for the `JSON_LISTINGS_FEED`
+   Date: Tue, 06 May 2025 21:19:55 GMT
+   GUID: 8823c896-5fef-3c53-aacb-89a939eca32e
+   Link: https://developer-docs.amazon/sp-api/changelog/update-feed-size-and-rate-limit-changes-for-the-json_listings_feed
+   Summary: The JSON_LISTINGS_FEED submitted through the Feeds API has the following changes: Items per request increases from 10,000 to 25,000 per feed Throttle rate per region increases from one feed submission per five minutes to five feed submissions per five minutes For variation families , use the child_p...
+
+   89. Update: May updates to Listing attribute usage and enumeration values
+   Date: Fri, 02 May 2025 16:10:49 GMT
+   GUID: 54bf4d43-1b5e-36a1-b4f7-8cc6101f8231
+   Link: https://developer-docs.amazon/sp-api/changelog/update-may-updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: Effective May 25, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers who ...
+
+   90. Deprecation Reminders - April 30, 2025
+   Date: Wed, 30 Apr 2025 17:35:08 GMT
+   GUID: eb59fa56-707d-3ebc-8c3b-b579adc339c6
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-april-30-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . Feed...
+
+   91. New: Automated pricing rules for SP-API
+   Date: Wed, 30 Apr 2025 16:18:30 GMT
+   GUID: f65ea837-b9e1-3f22-8144-6c3391c9494d
+   Link: https://developer-docs.amazon/sp-api/changelog/new-automated-pricing-rules-for-sp-api
+   Summary: Announcing the automated pricing rules guide, which you can use to manage the Amazon Automate Pricing tool for the SP-API programmatically. You can use the automated pricing rules to dynamically adjust the product prices based on various market conditions and strategies.
+
+   92. Improved references are now available!
+   Date: Wed, 30 Apr 2025 16:14:34 GMT
+   GUID: 66ec3f7f-6092-3d66-8d9a-a6f0ecd18efd
+   Link: https://developer-docs.amazon/sp-api/changelog/improved-references-are-now-available
+   Summary: New references, featuring full response examples and dynamic request examples in twenty languages, are now available in the API Reference section. Starting May 28, 2025 , all legacy references will be replaced by the new experience.
+
+   93. Update: Finances API identifies deferred releases
+   Date: Wed, 30 Apr 2025 16:12:43 GMT
+   GUID: 5bea12f6-535f-32db-8b9c-4d2a3265fc8c
+   Link: https://developer-docs.amazon/sp-api/changelog/update-finances-api-identifies-deferred-releases
+   Summary: The Finances API v2024-06-19 now identifies transactions that are released after being deferred. Transactions that were deferred, but are currently released now have a transactionStatus of DEFERRED_RELEASED . The status of deferred transactions is updated to DEFERRED_RELEASED when released. This cha...
+
+   94. Update: Amazon Buy Shipping now supports more than one account per carrier
+   Date: Mon, 14 Apr 2025 21:58:20 GMT
+   GUID: 3d404bba-83c5-3fd4-89a6-38cadd333bcf
+   Link: https://developer-docs.amazon/sp-api/changelog/update-amazon-buy-shipping-now-supports-more-than-one-account-per-carrier
+   Summary: As of March 24, 2025 , sellers in the US can link more than one account for each shipping carrier with Amazon Buy Shipping services. To link more than one account per carrier on Amazon Buy Shipping, follow the steps on the Manage your carrier accounts page in Seller Central. This change applies to t...
+
+   95. New: Prebuilt SP-API SDKs for Java and PHP
+   Date: Wed, 02 Apr 2025 18:21:27 GMT
+   GUID: 2c602dc2-9958-3e7d-8dbf-c34407336696
+   Link: https://developer-docs.amazon/sp-api/changelog/new-prebuilt-sp-api-sdks-for-java-and-php
+   Summary: We’re excited to announce the release of prebuilt Java and PHP SDKs for the SP-API. These SDKs provide a ready-to-use solution, reduce the need for manual setup, and keep your applications aligned with the latest SP-API updates. The prebuilt SP-API SDKs are packed with enhancements to streamline you...
+
+   96. Update: Services API supports estimated arrival time for technicians
+   Date: Wed, 02 Apr 2025 16:13:49 GMT
+   GUID: b677a45f-3d74-31ef-8133-ece2b3005438
+   Link: https://developer-docs.amazon/sp-api/changelog/update-services-api-supports-estimated-arrival-time-for-technicians
+   Summary: The request to setAppointmentFulfillmentData in the Services API now supports the estimatedArrivalTime parameter, with which you can provide the range of time when a technician is expected to arrive at a fulfillment location. This change applies to all marketplaces.
+
+   97. Update: April updates to Listing attribute usage and enumeration values
+   Date: Wed, 02 Apr 2025 00:05:07 GMT
+   GUID: 48655c56-86da-3e90-a371-8f9a51bc60d5
+   Link: https://developer-docs.amazon/sp-api/changelog/update-april-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective April 27, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. For a complete list of metadata changes and affected marketplaces, refer to SP-API product metadata changes . Who is affected? Both private and public developers us...
+
+   98. Update to the Data Protection Policy
+   Date: Mon, 24 Mar 2025 17:35:30 GMT
+   GUID: aad628e8-f327-301b-84aa-691cb566e5af
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-the-data-protection-policy
+   Summary: We are making updates to Section 3 of the Data Protection Policy , to broaden Amazon's confidentiality requirements for non-public information disclosed by Developers. This change is effective April 8, 2025 . All other aspects of the Data Protection Policy remain unchanged. Your continued use of Ama...
+
+   99. Deprecation of two payment settlement report types
+   Date: Mon, 17 Mar 2025 18:16:46 GMT
+   GUID: a5c109b8-f1ce-3596-b3b6-671ffe1ff70f
+   Link: https://developer-docs.amazon/sp-api/changelog/update-deprecation-of-two-payment-settlement-report-types
+   Summary: The following settlement reports are announcing deprecation and will be unavailable for sellers as of March 25, 2026 November 11, 2026 : XML Settlement Report ( GET_V2_SETTLEMENT_REPORT_DATA_XML ) Flat File Settlement Report ( GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE ) These reports are replaced with...
+
+   100. Update: March updates to Listing attribute usage and enumeration values
+   Date: Wed, 26 Feb 2025 22:10:44 GMT
+   GUID: 5ff7e29a-5d25-32c0-9e17-1f95cce55372
+   Link: https://developer-docs.amazon/sp-api/changelog/update-march-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective March 23, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For a ...
+
+   101. Deprecation Reminders - February 26, 2025
+   Date: Wed, 26 Feb 2025 21:43:31 GMT
+   GUID: 51007808-da92-3625-9862-1dc0564935c4
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-february-26-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   102. Update: Amazon Warehousing and Distribution API v2024-05-09 now includes new operations
+   Date: Wed, 26 Feb 2025 20:58:32 GMT
+   GUID: ada7d71b-a228-3b88-b6fd-85f0bc98df96
+   Link: https://developer-docs.amazon/sp-api/changelog/update-amazon-warehousing-and-distribution-api-v2024-05-09-now-includes-new-operations
+   Summary: The Amazon Warehousing and Distribution API v2024-05-09 (AWD) now includes the following operations: createInbound : You can use this operation to create a draft AWD inbound order with a list of packages for inbound shipment. The operation creates one shipment per order. getInbound : You can use thi...
+
+   103. Update: Deprecation of Feeds API support for XML and Flat File Listings Feeds date changed to June 30, 2025
+   Date: Wed, 26 Feb 2025 20:57:58 GMT
+   GUID: 59951999-b5e8-33c8-a3f1-34294fa3edd7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-deprecation-of-feeds-api-support-for-xml-and-flat-file-listings-feeds-date-changed-to-june-30-2025
+   Summary: The following feed type values were deprecated on March 18, 2024. The removal date for these types has changed from Mar 31, 2025 to June 30, 2025 : POST_PRODUCT_DATA POST_INVENTORY_AVAILABILITY_DATA POST_PRODUCT_OVERRIDES_DATA POST_PRODUCT_PRICING_DATA POST_PRODUCT_IMAGE_DATA POST_PRODUCT_RELATIONSH...
+
+   104. Update: JSON_LISTINGS_FEED now includes includedData
+   Date: Wed, 26 Feb 2025 20:38:58 GMT
+   GUID: 936e36b8-1b92-3773-999f-03826511fa56
+   Link: https://developer-docs.amazon/sp-api/changelog/update-json_listings_feed-now-includes-includeddata
+   Summary: The JSON_LISTINGS_FEED now includes the includedData property. If you specify the includedData property in the feed header, the report includes a list of issues that occur after the acceptance of your listing submission. For more information, refer to the Building Listings Management Workflows Guide...
+
+   105. Update: Added new Search Query Performance and Search Catalog Performance Analytics Report types
+   Date: Wed, 26 Feb 2025 20:34:27 GMT
+   GUID: 02ef8a84-2160-38b5-821d-2f9f79f22e34
+   Link: https://developer-docs.amazon/sp-api/changelog/update-added-new-search-query-performance-and-search-catalog-performance-analytics-report-types
+   Summary: Effective February 26, 2025, the Reports API includes two new Analytics Reports : Search Catalog Performance Report : Provides search engagement metrics such as impressions, clicks, cart adds, and purchases for a specified date range. Search Query Performance Report : Provides overall query performa...
+
+   106. New: Introducing Vehicles API v2024-11-01
+   Date: Wed, 26 Feb 2025 20:16:55 GMT
+   GUID: 9f24d00a-5cce-329d-a722-1eea291137ae
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-vehicles-api-v2024-11-01
+   Summary: Announcing the Vehicles API v2024-11-01 , which you can use to retrieve information about vehicles, including their unique identifiers. You can use this information and the Listings Items API to provide the list of vehicles with which your listed ASINs are compatible. Items that require vehicle fitm...
+
+   107. Update: Fulfillment Outbound tracking details include a delivery window
+   Date: Wed, 26 Feb 2025 20:16:29 GMT
+   GUID: dfeadf32-cf2d-37af-9a15-e0a8eadca621
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-outbound-tracking-details-include-a-delivery-window
+   Summary: The getPackageTrackingDetails operation in the Fulfillment Outbound API v2020-07-01 now includes deliveryWindow . This property provides sellers with a time window that describes when the package is expected to be delivered. This change applies to all marketplaces. For more information, refer to the...
+
+   108. Update: Validation of ShipFrom locations for Invoice by Amazon Merchant Fulfillment orders effective date changed to June 15, 2025
+   Date: Wed, 26 Feb 2025 14:52:39 GMT
+   GUID: a5bc7b09-5f78-3598-b3cb-3962497ae338
+   Link: https://developer-docs.amazon/sp-api/changelog/correction-validation-of-shipfrom-locations-for-invoice-by-amazon-merchant-fulfillment-orders
+   Summary: On January 21, 2025, we announced that Amazon will validate ShipFrom locations as part of shipment confirmation for Invoice By Amazon Merchant Fulfillment (MFN) orders in the EU. Initially, we stated that this change would take effect on February 22, 2025. This has been delayed. Starting June 15, 20...
+
+   109. Correction: Legacy Feeds API can now support GPSR attributes
+   Date: Mon, 10 Feb 2025 19:11:09 GMT
+   GUID: 7042f30b-03b8-3a86-8e59-ca8ebee81224
+   Link: https://developer-docs.amazon/sp-api/changelog/correction-legacy-feeds-api-can-now-support-gpsr-attributes
+   Summary: On November 18, 2024, we announced Support for GPSR compliance in the Listings Items API and JSON Listings feeds . Initially, we stated that legacy feeds would not support General Product Safety Regulations (GPSR) attributes and advised developers who use legacy XML feeds to direct sellers to upload...
+
+   110. Update: New Amazon Haul capability for Listings Items API v2021-08-01
+   Date: Thu, 06 Feb 2025 21:50:54 GMT
+   GUID: 9e4bb12d-d2e0-3239-831a-fda614dcf356
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-amazon-haul-capability-for-listings-items-api-v2021-08-01
+   Summary: The Listings Items API v2021-08-01 now supports the ability to create and edit Amazon Haul listings. Amazon Haul is a new shopping experience that sellers can enroll in to sell their products. To learn more about this change, refer to Amazon Haul . This change applies to the US marketplace.
+
+   111. New: Use the Solution Provider Portal (SPP) to streamline the third-party solution provider experience
+   Date: Tue, 04 Feb 2025 00:15:37 GMT
+   GUID: 50f96703-013d-3c66-9c9d-7809a2615b6b
+   Link: https://developer-docs.amazon/sp-api/changelog/new-announcing-solution-provider-portal-spp-to-streamline-third-party-solution-provider-experience-1
+   Summary: As of February 3, 2025 , you can use the Solution Provider Portal (SPP)––a dedicated platform for third-party developers and service providers––to onboard and manage your business with Amazon. SPP will replace Seller Central and Vendor Central effective August 31, 2025 . To continue using SP-API aft...
+
+   112. Update: February updates to Listing attribute usage and enumeration values
+   Date: Mon, 03 Feb 2025 23:11:11 GMT
+   GUID: 03ade808-88cf-369d-abdc-afd149df997b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-february-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective February 23, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For...
+
+   113. Update: Vendor Analytics dataset of Data Kiosk includes new metrics
+   Date: Wed, 29 Jan 2025 19:43:04 GMT
+   GUID: b707b7fe-7af5-3754-a61d-6c6de5139e4a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-analytics-dataset-of-data-kiosk-includes-new-metrics
+   Summary: The Vendor Analytics dataset now includes the following metrics: sellableInTransitInventory , unsellableInTransitInventory , and mostRecentSubmitted . These metrics provide information about inventory availability and fulfillment issues. netOrderedGMS and netShipmentGMS . These metrics provide infor...
+
+   114. Update: Fulfillment Inbound API now describes acceptable packing methods and package weights
+   Date: Wed, 29 Jan 2025 19:42:17 GMT
+   GUID: a7cc4f5d-0b74-32e7-8c83-ed19bb295367
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-inbound-api-now-describes-acceptable-packing-methods-and-package-weights
+   Summary: The response of the listPackingOptions operation in the Fulfillment Inbound API v2024-03-20 now describes acceptable packing methods and package weights in the supportedConfigurations property. This property replaces the supportedShippingConfigurations property. This property describes the guideline...
+
+   115. Update: Product Pricing API v2022-05-01 expands functionality for getCompetitiveSummary and getFeaturedOfferExpectedPriceBatch operations
+   Date: Wed, 29 Jan 2025 18:35:49 GMT
+   GUID: 18db8b52-1802-36c6-b360-07b005c700ba
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-pricing-api-v2022-05-01-expands-functionality-for-getcompetitivesummary-and-getfeaturedofferexpectedpricebatch-operations
+   Summary: The getCompetitiveSummary operation now includes sampleLocation in its response. sampleLocation is the representative location for the segment where the offer is featured. You can use this in the request to the getFeaturedOfferExpectedPriceBatch operation to get the Featured Offer Expected Price (FO...
+
+   116. Update: Amazon Warehousing and Distribution API v2024-05-09 now includes replenishment quantity
+   Date: Wed, 29 Jan 2025 16:58:54 GMT
+   GUID: e5ab4ab4-7e27-3ac8-b4d5-6b4737c11852
+   Link: https://developer-docs.amazon/sp-api/changelog/update-amazon-warehousing-and-distribution-api-v2024-05-09-now-includes-replenishment-quantity
+   Summary: The listInventory operation for the Amazon Warehousing and Distribution API v2024-05-09 now includes the optional response parameter replenishmentQuantity . This parameter contains quantity information for units that are in transit from Amazon Warehousing and Distribution to a Fulfillment by Amazon ...
+
+   117. Deprecation Reminders - January 29, 2025
+   Date: Wed, 29 Jan 2025 00:15:35 GMT
+   GUID: 88c17aaa-357a-3257-8dd9-1229ade501d6
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-january-29-2025
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   118. New: Announcing Solution Provider Portal (SPP) to streamline third-party solution provider experience
+   Date: Tue, 28 Jan 2025 19:19:29 GMT
+   GUID: 2d820e58-a123-3c43-aa07-65d3279a5f26
+   Link: https://developer-docs.amazon/sp-api/changelog/new-announcing-solution-provider-portal-spp-to-streamline-third-party-solution-provider-experience
+   Summary: As of February 3, 2025 , you can use the Solution Provider Portal (SPP)––a dedicated platform for third-party developers and service providers––to onboard and manage your business with Amazon. SPP will replace Seller Central and Vendor Central effective August 31, 2025 . To continue using SP-API aft...
+
+   119. Update: GET_VAT_TRANSACTION_DATA now includes a date limitation for report generation
+   Date: Tue, 21 Jan 2025 20:08:59 GMT
+   GUID: ed9306f3-a8a2-342f-bccb-f7041c6d15e0
+   Link: https://developer-docs.amazon/sp-api/changelog/update-get_vat_transaction_data-now-includes-a-date-limitation-for-report-generation
+   Summary: The GET_VAT_TRANSACTION_DATA report now includes a date limitation for report generation. The report is available from the third of each month. If you request the report before the third of the month, then Amazon returns a status of FATAL . Which marketplaces are affected? This change applies to the...
+
+   120. Validation of ShipFrom locations for Invoice by Amazon Merchant Fulfillment orders
+   Date: Tue, 21 Jan 2025 15:39:14 GMT
+   GUID: f1acb20d-2980-3139-9015-7a76a4bed5a2
+   Link: https://developer-docs.amazon/sp-api/changelog/validation-of-shipfrom-locations-for-invoice-by-amazon-merchant-fulfillment-orders
+   Summary: Starting February 22, 2025 June 15, 2025 , Amazon will validate ShipFrom locations as a part of shipment confirmation for Invoice By Amazon Merchant Fulfillment (MFN) orders in the EU. Validation requirements To validate the ShipFrom location, Amazon checks two conditions: The VAT Registration Numbe...
+
+   121. Update: January updates to Listing attribute usage and enumeration values
+   Date: Mon, 30 Dec 2024 15:57:32 GMT
+   GUID: 8ebc0607-37f4-3c9a-90ed-7d236c9919b2
+   Link: https://developer-docs.amazon/sp-api/changelog/update-january-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective January 26, 2025 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For ...
+
+   122. Update: Fulfillment Inbound API v0 removal date changed to January 21, 2025
+   Date: Mon, 23 Dec 2024 21:29:53 GMT
+   GUID: 9178c583-a17f-3a89-8657-fe2e2a12a4d8
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-inbound-api-v0-removal-date-changed-to-january-21-2025
+   Summary: The following operations in the Fulfillment Inbound API v0 will be removed on January 21, 2025: createInboundShipmentPlan updateInboundShipment createInboundShipment getPreorderInfo confirmPreorder getTransportDetails putTransportDetails voidTransport estimateTransport confirmTransport What action i...
+
+   123. Update: Vendor Direct Fulfillment Shipping API v2021-12-28 now includes createContainerLabel
+   Date: Wed, 18 Dec 2024 20:24:48 GMT
+   GUID: ef10845c-f7b9-357d-a994-51b10c63b30e
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-direct-fulfillment-shipping-api-v2021-12-28-now-includes-createcontainerlabel
+   Summary: The Vendor Direct Fulfillment Shipping API v2021-12-28 now includes createContainerLabel . You can use this operation to create a container (pallet) label. A carrier can scan the pallet label to confirm the pickup of the individual packages within a pallet. This change applies to all marketplaces.
+
+   124. New: Introducing SP-API support for third-party providers
+   Date: Wed, 18 Dec 2024 19:43:24 GMT
+   GUID: b5808f0a-0590-364b-9c0e-7f22f9947f8e
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-sp-api-support-for-third-party-providers
+   Summary: We are excited to announce open banking support for third-party providers (TPPs). This functionality enables TPPs to securely access an account holder's account and payment services. This launch includes the new Transfers API, an update to the Sellers API, and new roles. Transfers API v2024-06-01 Th...
+
+   125. Update: New searchListingsItems operation for Listings Items API v2021-08-01
+   Date: Wed, 18 Dec 2024 19:40:57 GMT
+   GUID: 06061731-0d55-396b-8ac6-7fb613affb2a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-searchlistingsitems-operation-for-listings-items-api-v2021-08-01
+   Summary: The new searchListingsItems operation for Listings Items API v2021-08-01 returns information for multiple listings items based on filters, which include listing IDs, issues, status, relationships, and creation date. This operation uses the Product Listing role. For more information, refer to Tutoria...
+
+   126. Update: Vendor Shipments API v1 now supports the ability to retrieve small parcel labels
+   Date: Wed, 18 Dec 2024 19:16:52 GMT
+   GUID: a1986b17-1067-34a1-8702-65a49a8ec997
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-shipments-api-v1-now-supports-the-ability-to-retrieve-small-parcel-labels
+   Summary: The new GetShipmentLabels operation of the Vendor Shipments API v1 offers programmatic access to small parcel labels for vendors. This operation requires the Amazon Fulfillment Role . For more information, refer to GetShipmentLabels in the Vendor Retail Procurement APIs v1 Use Case Guide.
+
+   127. Update: Data Kiosk API Vendor Analytics dataset now supports new metrics
+   Date: Wed, 18 Dec 2024 19:15:57 GMT
+   GUID: 59183582-751b-33d4-ba2c-019f4c66c110
+   Link: https://developer-docs.amazon/sp-api/changelog/update-data-kiosk-api-vendor-analytics-dataset-now-supports-new-metrics
+   Summary: The Vendor Analytics dataset now includes metrics such as shippedCogs , contraCOGS , and contraCOGSPerUnit . You can use these metrics to track costs associated with items. zipCode , binding , and color . You can use these metrics to analyze sales trends and optimize performance based on geographica...
+
+   128. Update: New metrics in the Replenishment API v2022-11-07
+   Date: Wed, 18 Dec 2024 19:12:22 GMT
+   GUID: 23edd6f9-8d50-3b39-9f42-907d915355cf
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-metrics-in-the-replenishment-api-v2022-11-07
+   Summary: The getSellingPartnerMetrics operation of the Replenishment API v2022-11-07 offers four new metrics: REVENUE_BY_DELIVERIES : The subscription revenue categorized by the number of deliveries over the past 12 months. SUBSCRIBER_RETENTION : The percentage of subscriptions that remain active 30 and 90 d...
+
+   129. Deprecation Reminders - December 18, 2024
+   Date: Wed, 18 Dec 2024 18:25:38 GMT
+   GUID: dccd11f6-d257-3172-8017-afbb32ef9f3d
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-december
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   130. Update: Amazon Warehousing and Distribution API v2024-05-09 now includes expiration dates and preparation details for shipment items
+   Date: Wed, 18 Dec 2024 17:28:40 GMT
+   GUID: 77d6410e-7c34-3246-a229-3329e64f6edd
+   Link: https://developer-docs.amazon/sp-api/changelog/update-amazon-warehousing-and-distribution-api-v2024-05-09-now-includes-expiration-dates-and-preparation-details-for-shipment-items
+   Summary: You can now get the expirationDetails and prepDetails of inbound shipments with the following operations: listInventory : Retrieve expiration details, including the on hand quantity of the item and expiration date. getInboundShipment : Retrieve expiration details and preparation details, including t...
+
+   131. Ireland (IE) marketplace launch for Seller Central
+   Date: Wed, 11 Dec 2024 17:45:31 GMT
+   GUID: 1e6d6a70-af50-34f9-98fa-9815f8e0131c
+   Link: https://developer-docs.amazon/sp-api/changelog/ireland-ie-marketplace-launch-for-seller-central
+   Summary: We are excited to announce the new Ireland (IE) Marketplace for Seller Central . You can now: Sell products to customers in Ireland. Make Selling Partner API calls to the Ireland marketplace. Access Ireland-specific Marketplace ASIN page view metrics. Expand your European market presence. Integrate ...
+
+   132. Starting January 1, 2025, the invoice number for VAT Calculation Service invoices will be shortened to 14 characters
+   Date: Mon, 02 Dec 2024 16:33:40 GMT
+   GUID: 544f0f0e-cc71-3298-80ee-901ebe5f042d
+   Link: https://developer-docs.amazon/sp-api/changelog/starting-january-1-2025-the-invoice-number-for-vat-calculation-service-invoices-will-be-shortened-to-14-characters
+   Summary: Starting January 1, 2025 , the invoice number for VAT Calculation Service invoices will be shortened to 14 characters. An example is GB41WMTXK60R5I . The following table shows the new format of the invoice number. Description Start position End position Length Example ISO country code 1 2 2 GB Last ...
+
+   133. Update: December updates to Listing attribute usage and enumeration values
+   Date: Mon, 18 Nov 2024 21:14:29 GMT
+   GUID: 227747cb-007e-36fb-8b7c-2524982f5c3d
+   Link: https://developer-docs.amazon/sp-api/changelog/update-december-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective December 15, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For...
+
+   134. Update: Support for GPSR compliance in Listings Items API and JSON Listings Feeds
+   Date: Mon, 18 Nov 2024 18:35:54 GMT
+   GUID: 7404f244-1268-3c64-96ea-97c15192a470
+   Link: https://developer-docs.amazon/sp-api/changelog/developers-can-use-attributes-in-their-programmatic-listings-submissions-to-comply-with-gpsr
+   Summary: You can update attribute submissions and document uploads through Listings Items API v2021-08-01 or the JSON_LISTINGS_FEED feed type to support selling partners with General Product Safety Regulations (GPSR) compliance. Sellers can refer to their Account Health page for a list of brands and offers t...
+
+   135. Update: Easy Ship API v2022-03-23 now supports the Netherlands (NL) and Poland (PL) marketplaces
+   Date: Fri, 15 Nov 2024 04:45:48 GMT
+   GUID: fda5f3bb-ff8f-331a-a2eb-0d31d73c8b05
+   Link: https://developer-docs.amazon/sp-api/changelog/update-easy-ship-api-v2022-03-23-now-supports-the-netherlands-nl-and-poland-pl-marketplace
+   Summary: The Easy Ship API v2022-03-23 now supports the Netherlands (NL) and Poland (PL) marketplaces. You can use the Easy Ship API to build applications for sellers to manage and ship packages for Amazon Easy Ship orders. Easy Ship operations are only available in select marketplaces and support for specif...
+
+   136. Update: Product Pricing API v2022-05-01 expands functionality for getCompetitiveSummary operation
+   Date: Tue, 12 Nov 2024 20:23:01 GMT
+   GUID: 0440beb1-661a-3d9b-947c-861abd2aa6fe
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-pricing-api-v2022-05-01-expands-functionality-for-getcompetitivesummary-operation
+   Summary: The getCompetitiveSummary operation now includes WasPrice , which is the 90-day median price that customers pay for the product on Amazon. You can use this value to set promotions and discounts based on the typical price on the product detail page. You can find WasPrice in the referencePrices list i...
+
+   137. Update: November updates to Listing attribute usage and enumeration values
+   Date: Tue, 12 Nov 2024 16:20:04 GMT
+   GUID: 53ec5cd5-3395-3c7e-afdd-9633ce5d8d38
+   Link: https://developer-docs.amazon/sp-api/changelog/update-november-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective November 10, 2024 , Amazon has updated the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For...
+
+   138. Update: Usage Plan values for the Transfers API v2024-06-01 initiatePayout operation
+   Date: Mon, 11 Nov 2024 19:12:14 GMT
+   GUID: 741926b8-51c2-3cd8-a32d-4a55d86127bb
+   Link: https://developer-docs.amazon/sp-api/changelog/update-usage-plan-values-for-the-transfers-api-v2024-06-01-initiatepayout-operation
+   Summary: The usage plan for initiatePayout operation in the Transfers API v2024-06-01 has been updated with a throttling rate of 0.017 (previously 0.5) and a burst rate of 2 (previously 30).
+
+   139. Deprecation Reminders - November 6, 2024
+   Date: Wed, 06 Nov 2024 22:10:36 GMT
+   GUID: e1e70074-53a7-397f-a8c1-975a25ca4210
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-november-6-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   140. Update: Throttling changes for the Merchant Fulfillment API
+   Date: Wed, 06 Nov 2024 21:59:05 GMT
+   GUID: c343f749-1a3d-3f29-bc1a-8396ad251f30
+   Link: https://developer-docs.amazon/sp-api/changelog/update-throttling-changes-for-the-merchant-fulfillment-api
+   Summary: The getEligibleShippingServices and createShipment operations in the Merchant Fulfillment API v0 have increased throttling rates to help reduce request throttling: The getEligibleShippingServices operation now has a throttling rate of 6 (previously 5) and a burst rate of 12 (previously 10). The crea...
+
+   141. Update: Product Pricing API v2022-05-01 expands support for getFeaturedOfferExpectedPriceBatch Operation
+   Date: Wed, 06 Nov 2024 21:46:28 GMT
+   GUID: 8f8a6d6b-7c33-3207-bd90-64fd6035a691
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-pricing-api-v2022-05-01-expands-support-for-getfeaturedofferexpectedpricebatch-operation
+   Summary: The getFeaturedOfferExpectedPriceBatch operation now supports the JP marketplace. You can now retrieve the Featured Offer Expected Price (FOEP) for all marketplaces worldwide. The FOEP is the listing price at or below which a seller can expect to have the featured offer (before applicable promotions...
+
+   142. Update: Finances API v0 now includes TransactionNumber
+   Date: Wed, 06 Nov 2024 21:46:06 GMT
+   GUID: 6cb4043f-6ddb-3ade-bdae-7d0b6110aac1
+   Link: https://developer-docs.amazon/sp-api/changelog/update-finances-api-v0-now-includes-transactionnumber
+   Summary: The AdjustmentItem object in the Finances API v0 now includes TransactionNumber . You can use this parameter to identify what the adjustment is related to. For example, Amazon Shipping customers can use TransactionNumber to get an invoice number, which they can map to an Amazon Shipping invoice. Thi...
+
+   143. New: Code samples for the Listings sample solution application
+   Date: Mon, 04 Nov 2024 21:32:53 GMT
+   GUID: 4161d028-998b-3b58-9c5b-fb2e7d9d713f
+   Link: https://developer-docs.amazon/sp-api/changelog/new-code-samples-for-the-listings-sample-solution-application
+   Summary: We are excited to share eight new code samples that correspond to the Listings sample solution application . The code samples walk you through API calls for common listings scenarios and explain the code step by step. For the list of code samples, refer to Listings Items API . For information about ...
+
+   144. Update: October updates to Listing attribute usage and enumeration values
+   Date: Wed, 23 Oct 2024 19:30:28 GMT
+   GUID: 6b6e161c-8771-3cb7-aa02-f1295e824fb6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-october-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective October 27, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. For ...
+
+   145. Sellers can prove their GPSR compliance on their Account Health page
+   Date: Mon, 14 Oct 2024 16:06:31 GMT
+   GUID: b4e7b383-5fa2-37da-a827-48c919a47215
+   Link: https://developer-docs.amazon/sp-api/changelog/sellers-can-prove-their-gpsr-compliance-on-their-account-health-page
+   Summary: Sellers who sell non-food products in EU-based stores can prove their General Product Safety Regulation (GPSR) compliance on the Account Health page. Sellers can refer to their Account Health page for a list of brands and offers that must be compliant with Amazon's GPSR policy. Sellers must prove GP...
+
+   146. Update: Notification for new transactions
+   Date: Sat, 12 Oct 2024 00:23:10 GMT
+   GUID: 411b18ce-37ec-3cb0-a9fb-aad4f827ba86
+   Link: https://developer-docs.amazon/sp-api/changelog/update-notification-for-new-transactions
+   Summary: The TRANSACTION_UPDATE notification is sent whenever there is a new transaction posted to the seller's account. This change applies to all marketplaces.
+
+   147. Update: Fulfillment Inbound API v2024-03-20 now supports preparation details
+   Date: Sat, 12 Oct 2024 00:22:23 GMT
+   GUID: d7da0ce4-ec1b-3d23-9ccf-ee262ff456a1
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-inbound-api-v2024-03-20-now-supports-preparation-details
+   Summary: You can now get and set preparation details with the following operations: listPrepDetails : Retrieve preparation instructions for how to ship an MSKU into Amazon’s fulfillment network, such as the available values for prepOwner and labelOwner . setPrepDetails : Provide the prepCategory and prepType...
+
+   148. ListPrice attribute required in select marketplaces starting January 31
+   Date: Mon, 30 Sep 2024 17:12:56 GMT
+   GUID: cd12380c-c0d9-3f76-808c-4fd732a6fad9
+   Link: https://developer-docs.amazon/sp-api/changelog/listprice-attribute-required-in-select-marketplaces-starting-january-31
+   Summary: Effective January 31, 2025 , Amazon will require the ListPrice attribute across a subset of product types in select marketplaces. By including the ListPrice attribute, you can provide your customers with accurate and complete product information. The ListPrice is the suggested retail price of a prod...
+
+   149. New: Introducing App Integrations API v2024-04-01 for Seller Notifications
+   Date: Mon, 30 Sep 2024 16:33:18 GMT
+   GUID: 7b1074d6-dca6-3422-907c-2b40bfa7b0c4
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-app-integrations-api-v2024-04-01-for-seller-notifications
+   Summary: We are excited to announce the new App Integrations API v2024-04-01 . You can use this API to: Create and send notifications to sellers about their businesses. The messages are displayed on the Selling Partner Appstore notification banner in Seller Central . Delete notifications that were previously...
+
+   150. Update: September updates to Listing attribute usage and enumeration values
+   Date: Wed, 25 Sep 2024 20:45:29 GMT
+   GUID: 82751f2c-4a4d-322b-9f1d-da2bf0f24640
+   Link: https://developer-docs.amazon/sp-api/changelog/update-september-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective September 29, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments eliminate redundant attributes and improve the curation of attributes and enumeration values that apply to the corresponding product types. Fo...
+
+   151. Update: New Low-Cost Store field for Finances API, FBA Inventory API, and Notification API
+   Date: Wed, 25 Sep 2024 20:16:31 GMT
+   GUID: 285c72a0-2dcb-321a-9da8-ba83c9392b5b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-low-cost-store-field-for-finances-api-fba-inventory-api-and-notification-api
+   Summary: The Finances API v0 , FBA Inventory API v1 , and FBA_INVENTORY_AVAILABILITY_CHANGES notification now include new fields that you can use to identify which inventory is a part of the Low-Cost Store . Low-Cost Store is a new store that sellers can enroll in to sell their products. The FBA Inventory AP...
+
+   152. New: Invoices API v2024-06-19 for FBA Brazil
+   Date: Wed, 25 Sep 2024 20:14:13 GMT
+   GUID: a942c7a1-3765-3dbb-a292-9f48a88b4a32
+   Link: https://developer-docs.amazon/sp-api/changelog/new-invoices-api-v2024-06-19-for-fba-brazil
+   Summary: Announcing the Invoices API v2024-06-19 , which you can use to search for and retrieve invoices based on specified criteria, and asynchronously download the returned invoices. This change applies to the Brazil marketplace. For information on how to use this new API, refer to the API Reference and Us...
+
+   153. Update: Orders API v0 Updated for AmazonPrograms Attribute
+   Date: Wed, 25 Sep 2024 20:12:30 GMT
+   GUID: 1224cfa3-7ecf-3f39-9c25-012504cafdf9
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-api-v0-updated-for-amazonprograms-attribute
+   Summary: The response for the getOrderItems operation in the Orders API v0 now includes a new attribute, AmazonPrograms . This attribute contains the list of programs that are associated with an item, such as Subscribe and Save . This change applies to all marketplaces.
+
+   154. New: Introducing Finances API v2024-06-19
+   Date: Wed, 25 Sep 2024 19:54:32 GMT
+   GUID: a80555e5-d415-389f-a90e-634025d021c3
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-finances-api-v2024-06-19
+   Summary: We are excited to announce the new Finances API v2024-06-19 . This API provides financial information that is relevant to a seller's business. You can use this API to obtain financial events for a specified order or date range without having to wait until a statement period closes. This change appli...
+
+   155. Update: Vendor Analytics dataset now includes location attributes
+   Date: Wed, 25 Sep 2024 19:52:35 GMT
+   GUID: 5e0d9eb8-2b29-361e-bd13-375b46e207cf
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-analytics-dataset-now-includes-location-attributes
+   Summary: The Vendor Analytics dataset has three new GroupByAttributes : shipToCountryCode shipToCity shipToStateOrProvince You can use these attributes to determine the location to which items are shipped. This change applies to all marketplaces.
+
+   156. Deprecation Reminders - September 25, 2024
+   Date: Wed, 25 Sep 2024 19:26:15 GMT
+   GUID: d0b09eaa-55a8-31b2-88d8-715793091bdb
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-september-25-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   157. Update: offerIdentifier Is now optional with the getFeaturedOfferExpectedPriceBatch operation
+   Date: Wed, 11 Sep 2024 19:36:17 GMT
+   GUID: 134a0b4b-d9bf-39d2-bf3f-039d8fb6ad51
+   Link: https://developer-docs.amazon/sp-api/changelog/update-offeridentifier-is-now-optional-with-the-getfeaturedofferexpectedpricebatch-operation
+   Summary: The getFeaturedOfferExpectedPriceBatch no longer requires offerIdentifier in the FeaturedOfferExpectedPriceResponseBody . This parameter is now optional in order to correctly deserialize getFeaturedOfferExpectedPriceBatch error responses, as FeaturedOfferExpectedPriceResponseBody doesn’t provide off...
+
+   158. Update: Listings Items API v2021-08-01 And JSON_LISTINGS_FEED now support Amazon Business (B2B) pricing
+   Date: Wed, 11 Sep 2024 19:35:07 GMT
+   GUID: 27896f3b-4748-36a8-975d-ab99965089b7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-listings-items-api-v2021-08-01-and-json_listings_feed-now-support-amazon-business-b2b-pricing
+   Summary: The Listings Items API v2021-08-01 and JSON_LISTINGS_FEED feed type now support Amazon Business (B2B) pricing functionality. The Product Type Definitions API v2020-09-01 includes a new attribute ( audience ), which sellers can use to specify relevant programs for a purchasable offer. To create an Am...
+
+   159. Update: Easy Ship API v2022-03-23 now supports the Japan (JP) marketplace
+   Date: Wed, 11 Sep 2024 17:15:25 GMT
+   GUID: 9ae8979e-bd84-3751-b6de-f11571842f5c
+   Link: https://developer-docs.amazon/sp-api/changelog/update-easy-ship-api-v2022-03-23-now-supports-the-japan-jp-marketplace
+   Summary: The Easy Ship API v2022-03-23 now supports the Japan (JP) marketplace. Developers can use the Easy Ship API to build applications for sellers to manage and ship packages for Amazon Easy Ship orders. For more information on the marketplaces that support the Easy Ship API, refer to the EasyShip API v2...
+
+   160. Update: August updates to Listing attribute usage and enumeration values
+   Date: Mon, 26 Aug 2024 15:00:07 GMT
+   GUID: b6407a74-48cb-3b52-af6a-d7229922d175
+   Link: https://developer-docs.amazon/sp-api/changelog/update-august-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective August 25, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments are critical to improve the listing experience, as we work to eliminate redundant attributes and only curate attributes and enumeration values th...
+
+   161. Deprecation Reminders - August 14, 2024
+   Date: Wed, 14 Aug 2024 22:42:56 GMT
+   GUID: 098c09e6-5ddb-393b-a110-6c5a50ad6cb3
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-august-14-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   162. Update: 400 Error Response Message for rotateApplicationClientSecret
+   Date: Wed, 14 Aug 2024 22:24:52 GMT
+   GUID: 7cad59cd-2dc6-38c4-9c63-9e5446e43862
+   Link: https://developer-docs.amazon/sp-api/changelog/update-400-error-response-message-for-rotateapplicationclientsecret
+   Summary: The Application Management API v2023-11-30 rotateApplicationClientSecret operation now returns the correct 400 error response message when an application is not enrolled for rotation notification. The previous message: We encountered an internal error. Please try again. The new message: Application ...
+
+   163. Update: Vendor Orders API now supports variable weight products
+   Date: Wed, 14 Aug 2024 21:53:18 GMT
+   GUID: ca02969d-1af0-388d-852f-218cc29d19e7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-vendor-orders-api-now-supports-variable-weight-products
+   Summary: The Vendor Orders API v1 includes a new unitOfMeasure variable to support variable weight products. This variable provides the unit of measure for prices of items sold by weight. If this field is absent, the item is sold by eaches. Operations that return this variable include: getPurchaseOrders getP...
+
+   164. Update: Enhancements to the Amazon Warehousing and Distribution API
+   Date: Wed, 14 Aug 2024 21:35:24 GMT
+   GUID: 752c534c-d722-3eb4-8095-096740f8ca51
+   Link: https://developer-docs.amazon/sp-api/changelog/update-enhancements-to-the-amazon-warehousing-and-distribution-api
+   Summary: You can now use the Amazon Warehousing and Distribution API to: Track inventory in-transit to Amazon Warehousing and Distribution using the new totalInboundQuantity response parameter of the listInventory operation. Reconcile and compare expected and received inventory for each SKU in a shipment usi...
+
+   165. Update: Sellers API now supports the ability to retrieve account information
+   Date: Wed, 14 Aug 2024 21:23:26 GMT
+   GUID: 51dae1bc-f734-35bf-aa9b-44c138709e1b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-sellers-api-now-supports-the-ability-to-retrieve-account-information
+   Summary: You can now use the getAccount operation to retrieve information about seller accounts, such as: The marketplaces a seller can list in The default language and currency of a marketplace Whether the seller has suspended listings The getAccount operation is only available for Sandbox endpoints, and on...
+
+   166. Clarification on how to use the Inventory feed type `Quantity` attribute
+   Date: Mon, 12 Aug 2024 16:19:40 GMT
+   GUID: 98218f07-4064-322d-ac71-9646d22f51f9
+   Link: https://developer-docs.amazon/sp-api/changelog/clarification-on-how-to-use-the-inventory-feed-type-quantity-attribute
+   Summary: The Inventory feed type POST_INVENTORY_AVAILABILITY_DATA Quantity attribute applies only to inventory that is fulfilled by the seller. If your inventory is fulfilled by Amazon, you cannot manually update the quantity by using the Quantity attribute. Fulfillment by Amazon (FBA) inventory is automatic...
+
+   167. Use case guide, GitHub, and YouTube resources for Listings API integration
+   Date: Wed, 07 Aug 2024 19:30:35 GMT
+   GUID: 6165bf33-60c9-39c6-aec1-a2d717afed76
+   Link: https://developer-docs.amazon/sp-api/changelog/use-case-guide-github-and-youtube-resources-for-listings-api-integration
+   Summary: The Listings Management Workflow Migration Guide has been updated to include migration strategies based on use cases. The Migration Tutorial includes step-by-step instructions for successful migration. Mapping product attributes to the Listings Items API and JSON-based feeds highlights the updated p...
+
+   168. Update: New ineligibility code for getItemEligibilityPreview
+   Date: Wed, 07 Aug 2024 17:09:59 GMT
+   GUID: 105231a0-0e3c-3ea8-ae69-8b104507ea39
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-ineligibility-code-for-getitemeligibilitypreview
+   Summary: Starting August 14, 2024 , the getItemEligibilityPreview operation will have a new inbound ineligibility enum value, FBA_INB_0342 . This value provides more information on why an offer can't use certain manufacturer barcodes. FBA_INB_0342 provides the following message: This offer is no longer eligi...
+
+   169. Update: Changes to EU Amazon Contracting Party in Amazon Services API Developer Agreement
+   Date: Thu, 01 Aug 2024 19:22:37 GMT
+   GUID: 02fd3a63-4ac3-30f9-a253-b5b5ef99bb6a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-changes-to-eu-amazon-contracting-party-in-amazon-services-api-developer-agreement
+   Summary: Effective August 1, 2024 , we are updating the Amazon Services API Developer Agreement . What was previously known as "Amazon Services Europe S.a.r.l." is now "Amazon EU S.à.r.l.". This update may require changes to your existing application security or controls. Your continued use of Amazon Service...
+
+   170. Selling Partner API Blog Removal
+   Date: Wed, 31 Jul 2024 19:57:37 GMT
+   GUID: 099efe47-d96c-3bf2-bd37-9ae4cb44e7bb
+   Link: https://developer-docs.amazon/sp-api/changelog/selling-partner-api-blog-removal
+   Summary: The Selling Partner API Blog will be removed on July 31, 2024 . For technical guidance on Selling Partner APIs, refer to the SP-API Documentation site . For supplementary guidance on Selling Partner APIs, refer to Developer University .
+
+   171. Deprecation Reminders - July 2024
+   Date: Wed, 31 Jul 2024 18:12:54 GMT
+   GUID: 76b14f5d-86ec-3450-98c8-118e3e585715
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-july-31-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   172. Update: July updates to listing attribute usage and enumeration values
+   Date: Wed, 03 Jul 2024 18:53:39 GMT
+   GUID: 0bd4fcf6-4acf-3ad9-9252-2ee6064153a1
+   Link: https://developer-docs.amazon/sp-api/changelog/update-july-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Effective July 28, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments are critical to improve the listing experience, as we work to eliminate redundant attributes and only curate attributes and enumeration values that...
+
+   173. Correction: Data Kiosk role requirements
+   Date: Tue, 02 Jul 2024 19:24:36 GMT
+   GUID: 145e9fd6-2743-349f-8e27-e2bb0e6278eb
+   Link: https://developer-docs.amazon/sp-api/changelog/correction-data-kiosk-role-requirements
+   Summary: On June 19, 2024, we announced the general availability of Data Kiosk. The initial version of that announcement stated that all datasets require the Brand Analytics role. This is not correct. The Vendor Analytics and Sales and Traffic datasets require the Brand Analytics role . The Economics dataset...
+
+   174. New processes for reporting security incidents and informing Amazon of organizational changes
+   Date: Tue, 02 Jul 2024 19:12:00 GMT
+   GUID: 77d286b0-e0f9-3a59-adec-1b5568d53589
+   Link: https://developer-docs.amazon/sp-api/changelog/new-processes-for-reporting-security-incidents-and-informing-amazon-of-organizational-changes
+   Summary: On July 3, 2024 , we implemented new communication procedures. These are outlined in the Data Protection Policy (DPP) and the Acceptable Use Policy (AUP). DPP : Stipulates that incident reports that are related to all developer-facing policies must be directed to security@amazon.com . Note that the ...
+
+   175. Deprecation Reminders - June 2024
+   Date: Thu, 27 Jun 2024 22:49:56 GMT
+   GUID: b021783a-483b-33ca-b2a0-6d3b176fd8b7
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-june-2024
+   Summary: Deprecated SP-API resources are no longer in active development.. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the deprecations table . API...
+
+   176. Update: Merchant Fulfillment v0 API adds the Benefits object
+   Date: Thu, 27 Jun 2024 22:11:04 GMT
+   GUID: dc9b8dd1-52f3-3320-82e3-79a554184b56
+   Link: https://developer-docs.amazon/sp-api/changelog/update-merchant-fulfillment-v0-api-adds-the-benefits-object
+   Summary: The Merchant Fulfillment v0 API supports the Benefits object, which contains a list of included and excluded Amazon benefits from a shipping service offer. Each excluded benefit has a list of reason codes for why it is excluded. Benefits represent services provided by Amazon (for example, CLAIMS_PRO...
+
+   177. General availability of Fulfillment Inbound API v2024-03-20
+   Date: Thu, 27 Jun 2024 21:46:40 GMT
+   GUID: f4a80d0f-71cc-3fb0-94df-2f6c5590e8fd
+   Link: https://developer-docs.amazon/sp-api/changelog/general-availability-of-fulfillment-inbound-api-v2024-03-20
+   Summary: We are excited to announce general availability of the Fulfillment Inbound API v2024-03-20 . With this new API you can: Select from multiple inbound placement service options View and select an available delivery window for shipment arrival at an Amazon facility Access and edit shipments using Send ...
+
+   178. Updated date for List Price requirement changes
+   Date: Mon, 24 Jun 2024 20:07:31 GMT
+   GUID: d9216560-6616-3ffb-8e35-b04dafb69725
+   Link: https://developer-docs.amazon/sp-api/changelog/updated-date-for-list-price-requirement-changes
+   Summary: On May 15, 2024, we announced that the ListPrice attribute would be required on Listings APIs and JSON_LISTINGS_FEED and the MSRPWithtax attribute would be required on XSD/XML feed uploads for specific product types starting May 27, 2024. This change is now postponed and updated . ListPrice is now r...
+
+   179. New: FBA Inventory API dynamic sandbox
+   Date: Wed, 19 Jun 2024 21:26:15 GMT
+   GUID: 62ab641c-8fd3-3726-9ae4-8477571d4b91
+   Link: https://developer-docs.amazon/sp-api/changelog/new-fba-inventory-api-dynamic-sandbox
+   Summary: You can now test code integrations between the Fulfillment By Amazon (FBA) Inventory and Fulfillment Outbound API domains. Use the two dynamic sandbox environments to simulate order fulfillment and inventory movements that mimic Amazon's production responses. With the FBA Inventory sandbox , you can...
+
+   180. Update: Fulfillment Outbound API v2020-07-01 adds deliveryOffers and updates getFulfillmentOrder and createFulfillmentOrder
+   Date: Wed, 19 Jun 2024 21:25:56 GMT
+   GUID: e5b63894-7dc6-310f-8733-04db78d289e3
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-outbound-api-v2020-07-01-adds-deliveryoffers-and-updates-getfulfillmentorder-and-createfulfillmentorder
+   Summary: Multi-Channel Fulfillment (MCF) sellers can now access our new dynamic delivery offers feature using the new deliveryOffers API operation. Dynamic delivery offers provide access to standard click-to-delivery offers for all buyable products within a US ZIP Code or US IP address. Because dynamic deliv...
+
+   181. Data Kiosk reporting suite launches to general availability
+   Date: Wed, 19 Jun 2024 19:23:30 GMT
+   GUID: 8c2f6dcd-08c3-33b0-80db-01e20fe145f6
+   Link: https://developer-docs.amazon/sp-api/changelog/data-kiosk-reports-experience-general-availability-launch
+   Summary: We are excited to announce general availability of Data Kiosk in all marketplaces! Data Kiosk is a GraphQL-based dynamic reporting suite for accessing bulk data. You can use Data Kiosk to easily discover and select data fields from a comprehensive Amazon retail dataset. Data Kiosk provides access to...
+
+   182. Update: New metrics in the Replenishment API
+   Date: Wed, 19 Jun 2024 19:08:32 GMT
+   GUID: cfc92cd2-358c-332e-af2f-e5dd243e8f6a
+   Link: https://developer-docs.amazon/sp-api/changelog/update-new-metrics-in-the-replenishment-api
+   Summary: The Replenishment API includes new metrics. The getSellingPartnerMetrics operation offers three new metrics: LOST_REVENUE_DUE_TO_OOS : The revenue lost due to items being out of stock. SUBSCRIBER_NON_SUBSCRIBER_AVERAGE_REORDERS : The average revenue per subscriber and non-subscriber over the past 12...
+
+   183. New: Introducing Amazon Warehousing and Distribution API v2024-05-09
+   Date: Wed, 19 Jun 2024 18:18:51 GMT
+   GUID: 0196ceb1-21ea-36f6-af34-06650bf3919e
+   Link: https://developer-docs.amazon/sp-api/changelog/new-introducing-amazon-warehousing-and-distribution-api-v2024-05-09
+   Summary: We are excited to announce the new Amazon Warehousing and Distribution API v2024-05-09 . This API allows you to: Track inventory inside AWD distribution centers Track shipments going into AWD distribution centers The new AWD role will be available for selling partners and developers on June 21. This...
+
+   184. Update: Product Pricing API v2022-05-01 now supports the getFeaturedOfferExpectedPriceBatch operation in all marketplaces except Japan
+   Date: Wed, 19 Jun 2024 16:43:56 GMT
+   GUID: 82251d2b-8685-30b5-bc74-2b92784f874b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-product-pricing-api-v2022-05-01-now-supports-the-getfeaturedofferexpectedpricebatch-operation-in-all-marketplaces-except-japan
+   Summary: The Product Pricing API v2022-05-01 getFeaturedOfferExpectedPriceBatch operation is now available in all marketplaces except Japan. The getFeaturedOfferExpectedPriceBatch operation retrieves the featured offer expected price (FOEP) data for up to 40 SKUs. Sellers can use this information to compete ...
+
+   185. Update: Listing attribute usage and enumeration values
+   Date: Mon, 10 Jun 2024 15:29:19 GMT
+   GUID: e7a3ee21-b41f-3798-a5ab-f707e8c96a16
+   Link: https://developer-docs.amazon/sp-api/changelog/update-listing-attribute-usage-and-enumeration-values
+   Summary: As of June 23, 2024 , Amazon will update the attribute usage and enumeration values of numerous product types across marketplaces. These adjustments are critical to improve the listing experience, as we work to eliminate redundant attributes and only curate attributes and enumeration values that app...
+
+   186. New Fulfillment Inbound API v2024-03-20 June Release
+   Date: Tue, 04 Jun 2024 17:22:05 GMT
+   GUID: 65d2a4a3-3c39-37c2-b571-98df2a384fe4
+   Link: https://developer-docs.amazon/sp-api/changelog/new-fulfillment-inbound-api-v2024-03-20-june-release
+   Summary: Starting today, the following is supported in the Fulfillment Inbound API v2024-03-20 : New feature: View and select one of the available delivery windows for a shipment to arrive at an Amazon facility New feature: Print labels for individual items Select ‘Partnered Carrier’ as an option for your le...
+
+   187. Update: Amazon API Services Developer Agreement, Data Protection Policy, and Acceptable Use Policy
+   Date: Wed, 29 May 2024 19:15:23 GMT
+   GUID: f2282d1a-65d6-3975-a49f-187d1aea3b2a
+   Link: https://developer-docs.amazon/sp-api/changelog/policy-updates-amazon-api-services-developer-agreement-data-protection-policy-and-acceptable-use-policy
+   Summary: Effective June 12, 2024 , we are updating the Amazon Services API Developer Agreement , Data Protection Policy (DPP) , and Acceptable Use Policy (AUP) . These updates may require changes to your existing application security or controls. Your continued use of Amazon Services API after June 12, 2024 ...
+
+   188. Update: The Product Pricing API v2022-05-01 getCompetitiveSummary operation now provides the top 20 lowest priced offers and reference prices
+   Date: Wed, 22 May 2024 22:43:16 GMT
+   GUID: 9a09f1c5-bdb5-38ba-9326-7e0899b9d8f5
+   Link: https://developer-docs.amazon/sp-api/changelog/update-the-product-pricing-api-v2022-05-01-getcompetitivesummary-operation-now-provides-the-top-20-lowest-priced-offers-and-reference-prices
+   Summary: The Product Pricing API v2022-05-01 getCompetitiveSummary operation has been updated to include lowestPricedOffers and referencePrices attributes. This enhancement will provide the top 20 lowest priced offers and reference prices. This change applies to all marketplaces. The Product Pricing API v202...
+
+   189. Deprecation Reminders - May 2024
+   Date: Wed, 22 May 2024 18:29:59 GMT
+   GUID: 1b681436-6c99-30f2-a3c9-bff72ec00295
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-may-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will continue to be successful until their removal date. After the removal date, calls will fail. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs...
+
+   190. Update: The Catalog Items API v2022-04-01 provides a new classifications parameter for sellers and vendors
+   Date: Wed, 22 May 2024 18:04:45 GMT
+   GUID: 5331e834-b383-3cd6-b8d5-9cd14933208c
+   Link: https://developer-docs.amazon/sp-api/changelog/update-the-catalog-items-api-v2022-04-01-provides-a-new-classifications-parameter-for-sellers-and-vendors
+   Summary: The Catalog Items API v2022-04-01 includes a new includedData query parameter option called classifications , which replaces the deprecated MWS GetProductCategoriesForSKU and GetProductCategoriesForASIN operations. You can use classifications to browse the classification trees assigned to an ASIN. T...
+
+   191. Update: ShipFromSupplySourceId attribute added to Order feeds attributes
+   Date: Wed, 22 May 2024 17:16:00 GMT
+   GUID: ba258397-3960-3be5-aa5f-e8353ea440b5
+   Link: https://developer-docs.amazon/sp-api/changelog/update-shipfromsupplysourceid-attribute-added-to-order-feeds-attributes
+   Summary: The ShipFromSupplySourceId attribute has been added to the following Order feeds: POST_ORDER_FULFILLMENT_DATA POST_FLAT_FILE_FULFILLMENT_DATA
+
+   192. Removal of selling-partner-api-docs GitHub repository
+   Date: Tue, 21 May 2024 21:13:43 GMT
+   GUID: 263d52ad-a3b5-3a59-974b-47ef29971392
+   Link: https://developer-docs.amazon/sp-api/changelog/removal-of-selling-partner-api-docs-github-repository
+   Summary: The selling-partner-api-docs GitHub repository will be decommissioned on May 31, 2024 . After May 31, 2024 , this repository will no longer be available. All issues, bugs, and ideas submitted before this date will be moved to the selling-partner-api-models repository . You can find all of the inform...
+
+   193. Update: May updates to Listing attribute usage and enumeration values
+   Date: Tue, 21 May 2024 18:01:35 GMT
+   GUID: 78cb3a55-d8f4-3cfa-bc9b-660d3eafda89
+   Link: https://developer-docs.amazon/sp-api/changelog/update-may-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Starting May 26, 2024 , Amazon will make further updates to the attribute usage and enumeration values of numerous product types across select marketplaces. These adjustments eliminate redundant attributes. Refer to May 2024 Listings Items API Product Type Changes for a full list of affected product...
+
+   194. Update: Orders API v0 returns Pix, Boleto, and rewards-based payment method details
+   Date: Mon, 20 May 2024 15:07:07 GMT
+   GUID: 574134e3-77d2-3aca-9495-e6a9cc023cd7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-api-v0-returns-pix-boleto-and-rewards-based-payment-method-details
+   Summary: The paymentMethodDetails field of the Orders API v0 now returns Pix , Boleto , and Rewards values to help you identify payment methods in your orders information. Previously, these values were returned as Other . This enables the API users to properly identify those payment methods in their orders i...
+
+   195. Clarification to the requirement for List Prices
+   Date: Thu, 16 May 2024 19:10:44 GMT
+   GUID: 27471ac1-785e-32f6-9837-3bfe99485099
+   Link: https://developer-docs.amazon/sp-api/changelog/clarification-to-the-requirement-for-list-prices
+   Summary: On May 15, 2024, we announced an update to the requirement for List Prices. That announcement incorrectly stated that XSD/XML feed uploads were not affected. However, XSD/XML feed uploads are affected by this change. For more details, refer to the full list of affected product types .
+
+   196. Update to the requirement for List Prices starts on May 27
+   Date: Wed, 15 May 2024 17:15:51 GMT
+   GUID: d881b789-5ad2-3f08-860a-f3c965697a6b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-the-requirement-for-list-prices-starts-on-may-27
+   Summary: On September 15, 2023, we announced that the ListPrice attribute would be required for certain product types (PTs) in certain EU marketplaces. On May 27, 2024 , Amazon will update this list of PTs for which we require the ListPrice attribute, totaling 1,566 PTs. The ListPrice is the suggested retail...
+
+   197. Report retention policy is changing
+   Date: Tue, 07 May 2024 19:33:44 GMT
+   GUID: d2ca928b-e769-3d40-815d-df71e50a099a
+   Link: https://developer-docs.amazon/sp-api/changelog/report-document-retention-policy-is-changing-to-a-maximum-of-30-days
+   Summary: Starting May 30, 2024 , Amazon will retain generated report documents for varying durations per Report Type. Refer to the Report Type Values articles to identify the specific length of time report documents will be available. Any reports created via the Reports API will be available for download for...
+
+   198. Update: Feed retention policy change from 90 days to 28 days
+   Date: Tue, 07 May 2024 19:33:00 GMT
+   GUID: 7a4b905b-b20c-3087-a633-63051e33f224
+   Link: https://developer-docs.amazon/sp-api/changelog/feed-retention-policy-change-from-90-days-to-28-days
+   Summary: Starting May 30, 2024 , Amazon will retain feed documents for a maximum of 30 28 days. Any feeds submitted using the Feeds API on or after May 30, 2024 will be retained for 30 28 days. Any feeds submitted prior to May 30, 2024 will follow the previous policy and will be retained for 90 days. Note th...
+
+   199. Deprecation Reminders - April 2024
+   Date: Wed, 24 Apr 2024 19:49:29 GMT
+   GUID: 26b87008-978c-383e-916f-6731fe4c81e6
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-april-2024
+   Summary: Deprecated SP-API resources are no longer in active development. Calls to deprecated SP-API resources will fail beginning on their removal date. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs The following Fulfillment Inbound API v0 operations we...
+
+   200. Update: lastUpdatedDate field added to five Vendor Reports
+   Date: Wed, 24 Apr 2024 18:59:41 GMT
+   GUID: 0b98d71e-5ffc-3dc2-b81e-141cc799a1a2
+   Link: https://developer-docs.amazon/sp-api/changelog/update-lastupdateddate-field-added-to-five-vendor-reports
+   Summary: The lastUpdatedDate field has been added to the following Vendor Reports: GET_VENDOR_SALES_REPORT GET_VENDOR_NET_PURE_PRODUCT_MARGIN_REPORT GET_VENDOR_TRAFFIC_REPORT GET_VENDOR_FORECASTING_REPORT GET_VENDOR_INVENTORY_REPORT lastUpdatedDate follows the ISO 8601 date format of YYYY-MM-DD. This change ...
+
+   201. Update: Orders API v0 now includes the CompanyName attribute and other updates
+   Date: Wed, 24 Apr 2024 17:23:10 GMT
+   GUID: fee4a7c0-0bc4-3f2b-b9be-ad1cecfda9a6
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-api-v0-now-includes-the-companyname-attribute-and-other-updates
+   Summary: The Orders API v0 now includes the CompanyName attribute in the ShippingAddress object. This update provides the company name for the recipient. This change applies to all marketplaces. The rate limit for the getOrder , getOrderAddress , and getOrderBuyerInfo operations has increased from .0167 to ....
+
+   202. New South Africa marketplace support for 219 Listings product types
+   Date: Tue, 16 Apr 2024 19:29:02 GMT
+   GUID: f0ea6c0f-88da-32e2-8fb2-a282ce5de372
+   Link: https://developer-docs.amazon/sp-api/changelog/new-south-africa-marketplace-support-for-219-listings-product-types
+   Summary: Starting April 10, 2024 , 219 product types previously supported by XML and flat-file feeds are now available to sellers on the Listings Items API v2021-08-01 in the South Africa (ZA) marketplace. Subscribe to the PRODUCT_TYPE_DEFINITIONS_CHANGE notification to receive updates about product type ava...
+
+   203. Notification of upcoming product type (PT) availability
+   Date: Wed, 03 Apr 2024 00:15:52 GMT
+   GUID: bff25107-68a5-3133-9dc2-db4636712f07
+   Link: https://developer-docs.amazon/sp-api/changelog/notification-of-upcoming-product-type-pt-availability-1
+   Summary: On March 25, 2024 , the following 13 product types supported by XML and flat-file feeds became available to sellers on the Listings API in the Media category: BLANK_BOOK DIGITAL_DEVICE_ACCESSORY GIFT_CARD MAPS MEDIA MUSIC_CLASSICAL PHYSICAL_SOFTWARE PRINTED_MEDIA SOFTWARE SOFTWARE_DOWNLOAD_PDA DECOR...
+
+   204. Updates to listing attribute usage and enumeration values
+   Date: Tue, 02 Apr 2024 20:50:51 GMT
+   GUID: 4e66e335-f54e-3356-be3a-db4c1193d082
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-listing-attribute-usage-and-enumeration-values-1
+   Summary: On April 28, 2024 , the attribute usage and enumeration values of numerous product types across several marketplaces will be updated. Refer to April 2024 Listings Items API Product Type Changes for a full list of affected product types and changes. Which marketplaces are affected? This change applie...
+
+   205. Get early access to New Fulfillment Inbound API v2024-03-20
+   Date: Thu, 28 Mar 2024 20:37:11 GMT
+   GUID: d579b676-8002-3e68-a578-f7bcee8902d7
+   Link: https://developer-docs.amazon/sp-api/changelog/get-early-access-to-new-fulfillment-inbound-api-v2024-03-20
+   Summary: We are excited to announce early access to the new Fulfillment Inbound API v2024-03-20. These APIs support FBA inbound shipment creation and will allow you to: Select from multiple inbound placement service options Access and edit a shipment interchangeably on both Send to Amazon and via APIs Create...
+
+   206. New metrics added to the FBA Manage Inventory Health Report for the US marketplace
+   Date: Mon, 25 Mar 2024 19:02:45 GMT
+   GUID: 5e1447df-d63c-3e3e-89ec-e35d71d5bd10
+   Link: https://developer-docs.amazon/sp-api/changelog/new-metrics-added-to-the-fba-manage-inventory-health-report-for-the-us-marketplace
+   Summary: On December 5, 2023, we launched three new metrics on the FBA Manage Inventory Health Report . The report is available for sellers and API integrators to pull via API. This change applies to the US marketplace. The fba-minimum-inventory-level metric helps FBA sellers plan inventory levels more effec...
+
+   207. Deprecation Reminders - March 2024
+   Date: Wed, 20 Mar 2024 19:20:51 GMT
+   GUID: db0319d8-740a-3cbd-ab3f-7c9ee1856a07
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-march-2024
+   Summary: SP-API resources announcing deprecation will no longer be supported after their deprecation date. Calls to deprecated resources will fail beginning on their sunset date. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs The Authorization API v1 was ...
+
+   208. Update: Shipping API v2 now includes Non-Delivery Report (NDR) Feedback
+   Date: Wed, 20 Mar 2024 18:56:12 GMT
+   GUID: 79240a5d-bb30-3a48-925d-2ca27c716483
+   Link: https://developer-docs.amazon/sp-api/changelog/update-shipping-api-v2-now-includes-non-devliery-report-ndr-feedback
+   Summary: The Shipping API v2 now includes Non-Delivery Report (NDR) Feedback. The NDR Feedback API allows shippers to submit Non-Delivery Reports for eligible shipments. This API also supports ndrActions such as Reschedule , Reattempt , and RTO (Return to Origin). For more information, refer to the Shipping ...
+
+   209. Update: Marketplace ASIN Page View Metrics report now supported in UK Marketplace
+   Date: Wed, 20 Mar 2024 18:50:49 GMT
+   GUID: cc17042b-0a3c-3d1f-8da3-a7c3d63a25ad
+   Link: https://developer-docs.amazon/sp-api/changelog/update-marketplace-asin-page-view-metrics-report-now-supported-in-uk-marketplace
+   Summary: The Marketplace ASIN Page View Metric report has been updated to include support for the UK. For more information about this report, refer to Regulatory Compliance Report Type Values . This change applies to the UK marketplace. New tutorial Request and retrieve a bulk invoice report for MCF orders f...
+
+   210. Update: FEED_PROCESSING_FINISHED and REPORT_PROCESSING_FINISHED notifications
+   Date: Wed, 20 Mar 2024 18:41:03 GMT
+   GUID: 42c1995b-d954-32bb-9542-5c76927e38dc
+   Link: https://developer-docs.amazon/sp-api/changelog/update-feed_processing_finished-and-report_processing_finished-notifications
+   Summary: The FEED_PROCESSING_FINISHED and REPORT_PROCESSING_FINISHED notifications have been updated to include support for vendors. Both notifications have also been updated with a new accountId property which is a selling partner identifier on whose behalf the feed or report was submitted. This change appl...
+
+   211. Update: Merchant Fulfillment API v0 now provides dangerous goods (DG) details
+   Date: Wed, 20 Mar 2024 18:21:25 GMT
+   GUID: bf23b358-b9b0-38e0-9dbb-13c06b3d96b3
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-merchant-fulfillment-api-v0
+   Summary: Sellers and shippers can now use the Merchant Fulfillment API v0, Seller Central, and Shipper Central, to provide dangerous goods (DG) details when generating shipping labels for cosmetics and electronics with lithium batteries. Customers must comply with all applicable laws and regulations to ensur...
+
+   212. Python and JavaScript client libraries for SDKs now available for Selling Partner API
+   Date: Wed, 20 Mar 2024 18:08:41 GMT
+   GUID: 1a8e1a73-023c-3abf-bccc-bf2394cad239
+   Link: https://developer-docs.amazon/sp-api/changelog/python-and-javascript-client-libraries-for-sdks-now-available-for-selling-partner-api
+   Summary: Python and JavaScript client libraries for Software Development Kits (SDKs) are now available for Selling Partner API. These SDKs simplify the integration process, helping you access and use API features. You are encouraged to begin using these SDKs to take full advantage of the enhanced capabilitie...
+
+   213. The Fulfillment Outbound API now supports MCF Orders for India
+   Date: Wed, 20 Mar 2024 17:44:58 GMT
+   GUID: f5167596-9c8f-3799-afeb-9c70be807346
+   Link: https://developer-docs.amazon/sp-api/changelog/the-fulfillment-outbound-api-now-supports-mcf-orders-for-india
+   Summary: The Fulfillment Outbound v2020-07-01 API now includes the PaymentInformation attribute to support the India marketplace. The Fulfillment Outbound API v2020-07-01 Use Case Guide and Fulfillment Outbound Dynamic Sandbox Guide now include a tutorial on how to create an MCF order for India. This change ...
+
+   214. Deprecation of Feeds API support for XML and Flat File Listings Feeds
+   Date: Mon, 18 Mar 2024 18:50:13 GMT
+   GUID: 1ebf8fb7-6cb2-34eb-8be5-32c51116bd34
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-feeds-api-support-for-xml-and-flat-file-listings-feeds
+   Summary: Starting today, we are deprecating XML and flat file listings data (including pricing, inventory, relationships and images) submitted via the Feeds API and will no longer provide new features or categories in the legacy category XML format. If you have an application that uses XML and flat file list...
+
+   215. March updates to Listing attribute usage and enumeration values
+   Date: Wed, 06 Mar 2024 19:27:02 GMT
+   GUID: 63e866b6-c069-3a80-b3af-97eccd809566
+   Link: https://developer-docs.amazon/sp-api/changelog/march-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: Starting March 24, 2024 , Amazon will make further updates to the attribute usage and enumeration values of numerous product types across several marketplaces. These adjustments are critical to improve the listing experience, as we work to eliminate redundant attributes and only curate attributes an...
+
+   216. Update to the Amazon Acceptable Use Policy
+   Date: Wed, 06 Mar 2024 18:24:46 GMT
+   GUID: dca4beec-e7b4-3f00-a60e-1e111d58423b
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-the-amazon-acceptable-use-policy
+   Summary: Starting March 6, 2024 , we updated the Amazon Acceptable Use Policy (AUP) to include references to End User Data Report Terms and Conditions . These added references are applicable for users of Amazon API Services in Section 5.7 of the AUP. Which marketplaces are affected? This change applies to al...
+
+   217. Deprecation of LISTINGS_ITEM_ISSUES_CHANGE notification payload version 1.0
+   Date: Wed, 28 Feb 2024 16:35:57 GMT
+   GUID: f70bf3c0-7316-3f99-859f-e5289e4af37a
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-listings_item_issues_change-notification-payload-version-10
+   Summary: Effective September 25, 2024, the LISTINGS_ITEM_ISSUES_CHANGE notification payload version 1.0 will no longer be available in Selling Partner API. The latest version, LISTINGS_ITEM_ISSUES_CHANGE payload version 2023-12-13, is available for migration. Compared to 1.0, 2023-12-13 has more enforcement ...
+
+   218. Deprecation Reminders - February 2024
+   Date: Thu, 22 Feb 2024 20:24:12 GMT
+   GUID: 508327b8-9e5f-376f-b234-f6d98dcab2bd
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-february-2024
+   Summary: SP-API resources announcing deprecation will no longer be supported after their deprecation date. Calls to deprecated resources will fail beginning on their sunset date. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs The Authorization API v1 was ...
+
+   219. Application Management API v2023-11-30 is now in Production
+   Date: Wed, 21 Feb 2024 21:34:56 GMT
+   GUID: 760fc14e-4743-3432-b0e4-429745cf3ab0
+   Link: https://developer-docs.amazon/sp-api/changelog/application-management-api-v2023-11-30-is-now-in-production
+   Summary: The Application Management API v2023-11-30 is now live on the Production site. With this API you can programmatically rotate your Login with Amazon (LWA) credentials (client secrets). Which marketplaces are affected? This change applies to all marketplaces. For more information To learn more about A...
+
+   220. New code samples for Multi-Channel Fulfillment
+   Date: Wed, 21 Feb 2024 18:26:22 GMT
+   GUID: 943a1604-9682-39d4-b563-c4747bce2b17
+   Link: https://developer-docs.amazon/sp-api/changelog/new-code-samples-for-multi-channel-fulfillment
+   Summary: The six new Multi-Channel Fulfillment code samples walk through common use cases like previewing, creating, and canceling orders. Which marketplaces are affected? This change applies to all marketplaces.
+
+   221. February updates to Listing attribute usage and enumeration values
+   Date: Mon, 12 Feb 2024 17:39:34 GMT
+   GUID: 3c565b6c-7e76-3a10-8d5f-b689129a5518
+   Link: https://developer-docs.amazon/sp-api/changelog/february-updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: On January 29, 2024 , we announced Updates to Listing attribute usage and enumeration values . Starting February 25, 2024 , Amazon will make further updates to the attribute usage and enumeration values of numerous product types across several marketplaces. These adjustments are critical to improve ...
+
+   222. Deprecation Reminders - January 2024
+   Date: Wed, 31 Jan 2024 21:08:27 GMT
+   GUID: 09943ffc-83f3-32c1-b07e-48dc142a922d
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-reminders-january-2024
+   Summary: SP-API resources announcing deprecation will no longer be supported after their deprecation date. Calls to deprecated resources will fail beginning on their sunset date. For more detailed information about SP-API deprecation dates, refer to the Deprecations table . APIs The Authorization API v1 was ...
+
+   223. Update: Fulfillment Inbound API v0 now supports ShipsInProductPackaging
+   Date: Wed, 31 Jan 2024 20:55:21 GMT
+   GUID: 945ccf25-571b-35e6-9408-0f339f52bbd5
+   Link: https://developer-docs.amazon/sp-api/changelog/update-fulfillment-inbound-api-v0-now-supports-shipsinproductpackaging
+   Summary: The ShipsInProductPackaging , which indicates that the item ships in its original product packaging, was added to the PrepInstruction enums for all users. PrepInstructionList returns in the response for calls to prepInstructions . Fulfillment by Amazon (FBA) selling partners who have Ships in Produc...
+
+   224. Update: Orders API v0 now supports ExtendedFields for Brazil shipping addresses
+   Date: Wed, 31 Jan 2024 20:47:45 GMT
+   GUID: 8ff5dcbb-2254-37b1-9a12-9bbed7ab152d
+   Link: https://developer-docs.amazon/sp-api/changelog/update-orders-api-v0-now-supports-extendedfields-for-brazil-shipping-addresses
+   Summary: The Orders API v0 now supports the return of additional information for Brazil shipping addresses. The object ExtendedFields was added. This change adds the return of additional information required for Brazil addresses such as street number, street name, complement, and neighborhood. This is only a...
+
+   225. Update: Listings Items API v2021-08-01 now supports previewing errors
+   Date: Wed, 31 Jan 2024 18:00:06 GMT
+   GUID: ec948dc8-e54a-3050-b98f-87aa94eb3117
+   Link: https://developer-docs.amazon/sp-api/changelog/update-listings-items-api-v2021-08-01-now-supports-previewing-errors
+   Summary: The putListingsItem and patchListingsItem operations of the Listings Items API v2021-08-01 will validate a listings item without persisting the data in the catalog when the request includes the mode=VALIDATION_PREVIEW query parameter. You can use this feature to preview listing errors in production ...
+
+   226. Updates to Listing attribute usage and enumeration values
+   Date: Wed, 03 Jan 2024 20:38:50 GMT
+   GUID: 104c238b-3dcb-3ebe-95a7-f3009a7b9da9
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-listing-attribute-usage-and-enumeration-values
+   Summary: On December 13, 2023 , we announced Updated Listing attribute usage and enumeration values . Starting January 29, 2024 , Amazon will make further updates to the attribute usage and enumeration values of numerous product types across several marketplaces. These adjustments are critical to improve the...
+
+   227. December 2023 SP-API Release Announcement
+   Date: Wed, 13 Dec 2023 19:29:30 GMT
+   GUID: 4ca4f061-aa59-34b9-88fb-ade2efae9176
+   Link: https://developer-docs.amazon/sp-api/changelog/december-2023-sp-api-release-announcement
+   Summary: New Application Management API v2023-11-30 in public beta On February 6, 2023, we announced that you must rotate your Login With Amazon (LWA) credentials (client secrets) for all applications every 180 days . The new Selling Partner API for Application Management lets you do this rotation programmat...
+
+   228. UPDATE: Discontinued Support - LWA Tokens can no longer retrieve PII in Selling Partner API
+   Date: Mon, 20 Nov 2023 19:50:00 GMT
+   GUID: 82efd9cb-2ed9-368f-ae40-e0f9601649a1
+   Link: https://developer-docs.amazon/sp-api/changelog/update-discontinued-support-lwa-tokens-can-no-longer-retrieve-pii-in-selling-partner-api
+   Summary: 📘 Note: Updated announcement information: This announcement contains updated information regarding the previous announcement Important Notice: Discontinued Support - LWA Tokens can no longer retrieve PII in Selling Partner API . Update: We previously announced that Developer applications must use t...
+
+   229. New Data Kiosk API reports experience available as public beta
+   Date: Wed, 15 Nov 2023 17:59:57 GMT
+   GUID: 6a32037c-202e-3ea6-96a9-93b998421627
+   Link: https://developer-docs.amazon/sp-api/changelog/new-data-kiosk-api-reports-experience-available-as-public-beta
+   Summary: We are excited to announce our first public beta! On November 15, 2023 , we launched the Data Kiosk API , a new reports experience that allows you to retrieve the specific reporting data you need without the data you don't. 📘 Public betas will be in the beta section: Documentation for public betas ...
+
+   230. November 2023 SP-API Release Announcement
+   Date: Wed, 08 Nov 2023 20:34:15 GMT
+   GUID: d2809cd1-0204-32de-a85e-5d0154ca6f38
+   Link: https://developer-docs.amazon/sp-api/changelog/november-2023-sp-api-release-announcement
+   Summary: Introducing the Supply Sources API v2020-07-01 You can use the new Supply Sources API to configure and update information on seller supply sources, such as stores and warehouses. You can use the Supply Sources API to build applications that use location-level fulfillment capabilities and provide inf...
+
+   231. October 2023 SP-API Release Announcement
+   Date: Wed, 11 Oct 2023 15:22:13 GMT
+   GUID: 604ce4c6-3509-37b6-8d29-d86e278851cb
+   Link: https://developer-docs.amazon/sp-api/changelog/october-2023-sp-api-release-announcement
+   Summary: Introducing Version 2.0 of the Java and C# SDKs On October 2, 2023, we announced that SP-API no longer requires AWS IAM or AWS Signature Version 4 , which means that developers no longer need to register for IAM resources or sign SP-API requests with AWS Signature Version 4. Along with this announce...
+
+   232. USPS Ground Advantage is now available for Amazon Buy Shipping
+   Date: Wed, 04 Oct 2023 20:18:41 GMT
+   GUID: ac36bf05-69d5-3f85-b7f5-904a02157bad
+   Link: https://developer-docs.amazon/sp-api/changelog/usps-ground-advantage-is-now-available-for-amazon-buy-shipping
+   Summary: USPS Ground Advantage for Amazon Buy Shipping is now available in the Merchant Fulfillment API v0 and the Shipping API v2 . Existing USPS First Class ship methods will be removed from Amazon Buy Shipping by October 31st, 2023 . The USPS Ground Advantage service consolidates the First-Class Package, ...
+
+   233. SP-API no longer requires AWS IAM or AWS Signature Version 4
+   Date: Tue, 26 Sep 2023 16:31:01 GMT
+   GUID: 00f31aa0-40e8-308f-8631-4a10f6cd483b
+   Link: https://developer-docs.amazon/sp-api/changelog/sp-api-will-no-longer-require-aws-iam-or-aws-signature-version-4
+   Summary: Starting October 2, 2023 , SP-API no longer requires the use of AWS Identity and Access Management (IAM) or AWS Signature Version 4 , which means developers will not need to register for IAM resources or sign SP-API requests with AWS Signature Version 4. SP-API will continue to use Login with Amazon...
+
+   234. September 2023 SP-API Release Announcement
+   Date: Wed, 20 Sep 2023 17:41:15 GMT
+   GUID: d577e49a-51ed-3298-b33c-2728e9ca47b3
+   Link: https://developer-docs.amazon/sp-api/changelog/september-2023-sp-api-release-announcement
+   Summary: Listings Items API pack hierarchy attributes are now available in US, EU, and JP Developers can now use the Listings Items API to create package hierarchy relationships, which can link units, case packs, and pallets of a product to create a connected listing. This change improves both search visibil...
+
+   235. FBA Small and Light program deprecation
+   Date: Mon, 18 Sep 2023 16:11:32 GMT
+   GUID: 388d1db2-0b05-3730-bcce-e1fbb3da04c0
+   Link: https://developer-docs.amazon/sp-api/changelog/fba-small-and-light-program-deprecation
+   Summary: The FBA Small and Light (SnL) program is being replaced by a low-price FBA fee rate card. Effective August 29, 2023, the FBA SnL program for the United States was closed and has been replaced with Low-Price FBA rates. For more information, refer to the Low-Price FBA fees page . Effective September 2...
+
+   236. ListPrice attribute required for additional product types
+   Date: Fri, 15 Sep 2023 16:34:57 GMT
+   GUID: 1b14cd6a-ca10-3c53-a49a-d5a49bf34fd9
+   Link: https://developer-docs.amazon/sp-api/changelog/listprice-attribute-required-for-additional-product-types
+   Summary: On May 31, 2023, we announced that Amazon will require the ListPrice attribute across 1,000 product types (PTs). Starting November 13, 2023 , Amazon will require the ListPrice attribute across an additional 773 PTs for a total of 1,773 PTs. The ListPrice is the suggested retail price of a product as...
+
+   237. August 2023 SP-API Release Announcement
+   Date: Wed, 16 Aug 2023 22:48:47 GMT
+   GUID: 54cc43aa-87a6-30f8-ac70-8bf94d723bef
+   Link: https://developer-docs.amazon/sp-api/changelog/august-2023-sp-api-release-announcement
+   Summary: Introducing code samples on the developer documentation site We are excited to launch code samples on the SP-API developer documentation site! The site currently has six code samples for the Merchant Fulfillment API, provided in a walk-through format. These code samples detail how to implement vario...
+
+   238. TLS versions 1.1 and earlier are deprecated
+   Date: Tue, 15 Aug 2023 22:33:08 GMT
+   GUID: 77785c6b-bd5f-368f-9c6c-39f01db43050
+   Link: https://developer-docs.amazon/sp-api/changelog/tls-versions-11-and-earlier-are-deprecated
+   Summary: Starting September 30, 2023 , URLs received from the following operations for all versions of the Feeds and Reports APIs will no longer support TLS 1.0/1.1: createFeedDocument getFeedDocument getReportDocument Which marketplaces are affected? This change applies to all marketplaces. Who is affected?...
+
+   239. Orders older than two years will be automatically archived in NA and EU marketplaces
+   Date: Wed, 09 Aug 2023 18:56:42 GMT
+   GUID: 436059de-b1dc-38b3-bc96-ecb9c159af0a
+   Link: https://developer-docs.amazon/sp-api/changelog/orders-older-than-two-years-will-be-automatically-archived-in-na-and-eu-marketplaces
+   Summary: Starting September 2023 , Amazon will archive any order that is older than two years. This process of archiving orders will occur automatically on a monthly basis. Any order that has been archived is still accessible through the Archived Orders report, which can be downloaded from Seller Central. Al...
+
+   240. Notification of upcoming product type (PT) availability
+   Date: Tue, 08 Aug 2023 17:33:53 GMT
+   GUID: 59e1fed7-5a60-3ccc-a79d-3760800a2bb7
+   Link: https://developer-docs.amazon/sp-api/changelog/notification-of-upcoming-product-type-pt-availability
+   Summary: As of July 26, 2023 , 1,604 product types supported by XML and flat-file feeds are now available to sellers using the Listings API worldwide (excluding IN) for Hardlines, Softlines, and Consumables. We now have 90% product type coverage. All remaining product types will be available on the Listings ...
+
+   241. Notice of increase in mandatory attributes for select product types
+   Date: Mon, 07 Aug 2023 17:49:50 GMT
+   GUID: cbe21bee-550d-35a2-8d76-f9784c676f50
+   Link: https://developer-docs.amazon/sp-api/changelog/notice-of-increase-in-mandatory-attributes-for-select-product-types
+   Summary: We previously announced the requirement, which goes into effect August 16th, to enter attribute information for 25 attributes across 52 product types in the announcement Notification of mandatory attributes for select product types . In September, we will require 274 attributes across 200 product ty...
+
+   242. Clarification to issued LWA credentials awareness announcement
+   Date: Wed, 12 Jul 2023 19:33:37 GMT
+   GUID: 0897f718-75ae-3045-948c-146ca269dffe
+   Link: https://developer-docs.amazon/sp-api/changelog/clarification-to-issued-lwa-credentials-awareness-announcement
+   Summary: On July 10, we issued an awareness announcement to remind developers that public exposure of Amazon LWA client credentials can lead to developer’s loss of access to the Selling Partner API. We understand that the title of this announcement may not have been as clear as we had intended, and we apolog...
+
+   243. Reminder and best practices to keep Amazon LWA client credentials secure
+   Date: Mon, 10 Jul 2023 21:05:02 GMT
+   GUID: db36faea-7990-38e6-bf42-e200815a4853
+   Link: https://developer-docs.amazon/sp-api/changelog/reminder-and-best-practices-to-keep-amazon-lwa-client-credentials-secure
+   Summary: Important: Public Exposure of Amazon LWA client credentials will lead to loss of SP-API access. To protect customer data, any known compromise of Amazon LWA Client credentials or data will result in loss of access to SP-API, that is the ability to make API calls using compromised credentials. What a...
+
+   244. June 2023 SP-API Release Announcement
+   Date: Wed, 21 Jun 2023 17:06:54 GMT
+   GUID: 68e693f7-fc10-3d26-b90d-6cc179554d03
+   Link: https://developer-docs.amazon/sp-api/changelog/june-2023-sp-api-release-announcement
+   Summary: Introducing the new Replenishment API We are excited to announce the new Replenishment API v2022-11-07 . This API allows SP-API developers to get critical data about selling partner business performance that can help improve speed and decision making. Key features of this API include: Amazon Subscri...
+
+   245. Changes to the Acceptable Use Policy
+   Date: Tue, 20 Jun 2023 23:24:59 GMT
+   GUID: d1ffe515-5c8c-3a0d-a8b5-def2c09f1dfc
+   Link: https://developer-docs.amazon/sp-api/changelog/changes-to-the-acceptable-use-policy
+   Summary: Starting June 21, 2023 , the Acceptable Use Policy (AUP) will be updated for all marketplaces. We are updating the AUP to add instructions for the Page View Report terms and conditions. The added references are applicable for users of Amazon API services in Section 5.6 of the AUP. Which marketplaces...
+
+   246. API request validation for 400 errors with HTML response
+   Date: Thu, 01 Jun 2023 15:44:34 GMT
+   GUID: 4a9ef20c-b6c3-3464-bfbe-0b54e4df7318
+   Link: https://developer-docs.amazon/sp-api/changelog/api-request-validation-for-400-errors-with-html-response
+   Summary: Effective June 5, 2023 , Amazon will reject requests that are not consistent with HTTP RFC 7230 . We have enforced this restriction to a portion of requests since April 25, 2023. Requests not consistent with HTTP RFC 7230 will return an error 400 status code and an HTML response. Check your metrics ...
+
+   247. ListPrice attribute required for select product types
+   Date: Wed, 31 May 2023 17:28:51 GMT
+   GUID: d98a5477-72ea-35d3-8e32-007188f0477a
+   Link: https://developer-docs.amazon/sp-api/changelog/listprice-attribute-required-for-select-product-types
+   Summary: Starting June 30, 2023 , Amazon will require the ListPrice attribute across 1000 product types (PTs). This change will improve customer experience by providing accurate and complete product attribute information. Selling Partners must enter the List Price or the Manufacturer's Suggested Retail Price...
+
+   248. May 2023 SP-API Release Announcement
+   Date: Wed, 17 May 2023 17:49:13 GMT
+   GUID: 90f802a1-3c25-3afe-986f-1c65365c8d20
+   Link: https://developer-docs.amazon/sp-api/changelog/may-2023-sp-api-release-announcement
+   Summary: New reports attributes directory We are excited to announce a new reports attributes directory! This new directory lists the available attributes for the SP-API reports, allowing you to easily access this information without having to rely on support or trial and error methods. If you are trying to ...
+
+   249. Urgent: Login with Amazon rotation deadline is May 22, 2023
+   Date: Tue, 16 May 2023 19:44:09 GMT
+   GUID: ffce7352-33c2-3535-b670-ef75e852c062
+   Link: https://developer-docs.amazon/sp-api/changelog/urgent-login-with-amazon-rotation-deadline-is-may-22-2023
+   Summary: On February 6, 2023, we announced that you must rotate your Login with Amazon (LWA) credentials (client secrets) for all applications every 180 days. Regular and timely rotation of LWA credentials limits the duration of your application’s credentials in the event that credentials are exposed or comp...
+
+   250. Notification of mandatory attributes for select product types
+   Date: Mon, 15 May 2023 18:12:45 GMT
+   GUID: 7514510b-a563-3503-8dab-ce4633b2d66c
+   Link: https://developer-docs.amazon/sp-api/changelog/notification-of-mandatory-attributes-for-select-product-types
+   Summary: Starting July 05, 2023 August 6, 2023 August 16, 2023 , Amazon will require 25 attributes across 52 product types (PTs) in listings templates. This change will improve the customer buying experience by making the product attribute information available within Amazon's catalog. Selling Partners must ...
+
+   251. UPDATE: Starting July 10th, 2023, the rate for the getItemOffersBatch operation within the Product Pricing API will be lowered
+   Date: Mon, 01 May 2023 22:02:04 GMT
+   GUID: eb4f16dc-0ec1-39c0-b655-58bc45d3608c
+   Link: https://developer-docs.amazon/sp-api/changelog/update-starting-july-10th-2023-the-rate-for-the-getitemoffersbatch-operation-within-the-product-pricing-api-will-be-lowered
+   Summary: UPDATE: We’ve changed the date when the rate will be lowered from May 1st to July 10th to provide more time for necessary updates to apps to accommodate the new rate limit. Starting May 1 July 10th, 2023, the usage plan rate for the getItemOffersBatch operation within the Product Pricing API will be...
+
+   252. The Listings Items API is now available in the JP marketplace
+   Date: Tue, 25 Apr 2023 16:20:10 GMT
+   GUID: ff5edb28-05a5-34d8-8ad9-5c8cfe382af6
+   Link: https://developer-docs.amazon/sp-api/changelog/the-listings-items-api-is-now-available-in-the-jp-marketplace
+   Summary: The Listings Items API is now available in the JP marketplace. Public developers in the JP marketplace can use the Listings Items API to build programmatic integrations that create and manage listings on Amazon. Developers can search for a list of all launched product types, submit full product and ...
+
+   253. April 2023 SP-API Release Announcement
+   Date: Wed, 19 Apr 2023 21:04:01 GMT
+   GUID: 3694483d-d343-3f98-a8e9-2c287baedc4e
+   Link: https://developer-docs.amazon/sp-api/changelog/april-2023-sp-api-release-announcement
+   Summary: Updated Fulfillment Outbound API modifies the city property in the address attribute The city property in the address attribute was updated from required to optional . This change benefits selling partners in the JP marketplace by preventing submission errors when a city value is not included in the...
+
+   254. Update to settlement report types in Singapore marketplace
+   Date: Mon, 10 Apr 2023 16:57:10 GMT
+   GUID: 54c2b91c-1065-3efb-a4fe-cf13a0cc9001
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-settlement-report-types-in-singapore-marketplace
+   Summary: As of March 31st, the following settlement report types now include a new header row in the Singapore (SG) marketplace. This header includes Amazon Singapore contact information, including address and Goods and Services Tax (GST) number. • GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE_V2 • GET_V2_SETTLEME...
+
+   255. Starting May 1, 2023, the rate for the getItemOffersBatch operation within the Product Pricing API will be lowered
+   Date: Wed, 05 Apr 2023 21:50:44 GMT
+   GUID: 18a748b5-abac-3c8e-ac7d-dc7c77dd0994
+   Link: https://developer-docs.amazon/sp-api/changelog/starting-may-1-2023-the-rate-for-the-getitemoffersbatch-operation-within-the-product-pricing-api-will-be-lowered
+   Summary: Starting May 1, 2023 , the usage plan rate for the getItemOffersBatch operation within the Product Pricing API will be lowered from 0.5 to 0.1 requests per second. The getListingOffersBatch operation usage plan will continue to allow for 0.5 requests per second. Which marketplaces are affected? This...
+
+   256. March 2023 SP-API Release Announcement
+   Date: Wed, 29 Mar 2023 19:59:19 GMT
+   GUID: 0472fe98-ba69-3e36-9c17-904091824965
+   Link: https://developer-docs.amazon/sp-api/changelog/march-2023-sp-api-release-announcement
+   Summary: Updated Fulfillment by Amazon (FBA) Inventory API adds nextToken configuration The token provided by nextToken will expire after 30 seconds. Using an expired nextToken will result an error. This resolves an error with blank responses for nextToken and startDateTime . The updated configuration launch...
+
+   257. Delete applications and revoke self-authorizations
+   Date: Wed, 01 Mar 2023 20:25:21 GMT
+   GUID: 05ff080a-52ae-3147-9dff-8fb538ccdf11
+   Link: https://developer-docs.amazon/sp-api/changelog/delete-applications-and-revoke-self-authorizations
+   Summary: Starting February 15, 2023 , developers can use self-service application deletion and self-authorization revoke workflows on Seller Central, Vendor Central and Developer Central . These features allow developers to delete unwanted applications and remove self-authorizations from existing application...
+
+   258. February 2023 SP-API Release Announcement
+   Date: Wed, 22 Feb 2023 18:53:25 GMT
+   GUID: 25afeb5f-c9db-352c-929c-99ba861cac0b
+   Link: https://developer-docs.amazon/sp-api/changelog/february-2023-sp-api-release-announcement
+   Summary: Updated Orders v0 API supports Amazon Business customer preferences Business customers expect the same on-time deliveries as consumers, and they also expect sellers to adhere to their delivery preferences (packages delivered during business hours, packages delivered to a preferred area, etc.). Using...
+
+   259. Update to  LWA credentials rotation deadline
+   Date: Mon, 20 Feb 2023 19:26:53 GMT
+   GUID: 8b86cc91-6051-372f-8e4f-815c7c400c8e
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-lwa-credentials-rotation-deadline
+   Summary: On February 6, 2023, we announced that you must rotate your Login With Amazon (LWA) credentials (client secrets) for all applications every 180 days. After gathering feedback from developer partners worldwide, we have extended the deadline to rotate LWA credentials older than 180 days from March 27,...
+
+   260. Updates to the Brand Analytics Search Terms Report
+   Date: Wed, 15 Feb 2023 20:22:25 GMT
+   GUID: f0fb6d94-cc6d-30c1-b762-1f26c78f3883
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-the-brand-analytics-search-terms-report
+   Summary: Starting March 15, 2023 , the GET_BRAND_ANALYTICS_SEARCH_TERMS_REPORT will default the name field and have a more accurate search frequency rank. What is changing? Each search term’s department name will default to the name of the Amazon shopping domain. For example, in Canada, all search term data ...
+
+   261. Important: You must rotate your Login With Amazon (LWA) credentials (client secrets) for all applications every 180 days
+   Date: Mon, 06 Feb 2023 19:29:57 GMT
+   GUID: 444dc0b4-33e5-3edd-af97-5855caa70f73
+   Link: https://developer-docs.amazon/sp-api/changelog/important-you-must-rotate-your-login-with-amazon-lwa-credentials-client-secrets-for-all-applications-every-180-days
+   Summary: 🚧 Update to LWA credential rotation deadline: On February 6, 2023, we announced that you must rotate your Login With Amazon (LWA) credentials (client secrets) for all applications every 180 days. After gathering feedback from developer partners worldwide, we have extended the deadline to rotate LWA...
+
+   262. January 2023 SP-API Release Announcement
+   Date: Wed, 25 Jan 2023 22:00:37 GMT
+   GUID: 3c939e5f-d227-3ef5-8023-25e9dd51ab48
+   Link: https://developer-docs.amazon/sp-api/changelog/january-2023-release-announcement
+   Summary: Introducing the Product Pricing v2022-05-01 API The new getFeaturedOfferExpectedPriceBatch API operation helps sellers compete to become the Featured Offer. This operation is available in the following marketplaces: France, Italy, Spain, Germany, Sweden, Poland, Netherlands, Belgium. The Featured Of...
+
+   263. Catalog Items v2022-04-01 updated to include additional attributes
+   Date: Tue, 27 Dec 2022 22:40:37 GMT
+   GUID: 7c0abaea-1bc2-3ab1-8e53-f8f5575b9e61
+   Link: https://developer-docs.amazon/sp-api/changelog/catalog-items-v2022-04-01-updated-to-include-additional-attributes
+   Summary: What is changing? The Catalog Items v2022-04-01 API has been updated to include several additional attributes in the summary to bring the Catalog Items API to parity with the Marketplace Web Services Catalog Items section. Item Contributor and Item Contributor Role attributes The ItemContributor att...
+
+   264. Updates to Amazon Points in Flat Files & XSD
+   Date: Wed, 07 Dec 2022 17:51:03 GMT
+   GUID: 59abd725-292d-3fde-b7ec-9e51d5fce18e
+   Link: https://developer-docs.amazon/sp-api/changelog/updates-to-amazon-points-in-flat-files-xsd
+   Summary: Changes in March 2023 will remove Points attributes from Inventory feeds and XSD as we continue to simplify the experience of managing Amazon Points. What is changing? On March 21, 2023 , the StandardPricePointsPercent and SalePricePointsPercent attributes will be removed from XSD, and the standard_...
+
+   265. Send to Amazon will replace the send/replenish workflow for API-created shipments
+   Date: Wed, 07 Dec 2022 17:22:58 GMT
+   GUID: ed7102f4-f1d3-3e93-b2e5-303b944a1331
+   Link: https://developer-docs.amazon/sp-api/changelog/send-to-amazon-will-replace-the-sendreplenish-workflow-for-api-created-shipments
+   Summary: What is changing? Starting March 1, 2023 , Send to Amazon will replace the send/replenish inventory workflow for API-created shipments for all sellers. Shipments that have been created, viewed, or edited using Send to Amazon cannot be viewed or edited via API. This includes shipments that have been ...
+
+   266. SP-API Health Dashboard
+   Date: Tue, 22 Nov 2022 18:40:20 GMT
+   GUID: e0e8adb5-7372-3b39-b315-a8266b6e28c1
+   Link: https://developer-docs.amazon/sp-api/changelog/sp-api-health-dashboard
+   Summary: What is changing? We are excited to announce the launch of our public Selling Partner API Health Dashboard ! You are now able to view the current health status of every operation and past incidents from last 30 days for the APIs listed below. The SP-API Health Dashboard is a single page with health ...
+
+   267. SP-API Developer University YouTube Channel has launched!
+   Date: Wed, 16 Nov 2022 18:23:00 GMT
+   GUID: 53e31790-6798-35c4-bc59-59f78451f155
+   Link: https://developer-docs.amazon/sp-api/changelog/sp-api-developer-university-youtube-channel-has-launched
+   Summary: Our SP-API Developer University YouTube channel is now live. We are excited to now offer prospective and existing SP-API developers with self-service content such as on-demand webinars, fireside chats, product demos and more! We will regularly add new content to help with SP-API integration. We enco...
+
+   268. November 2022 SP-API Release Announcement
+   Date: Wed, 09 Nov 2022 17:06:15 GMT
+   GUID: e5820a79-37a6-33fd-999a-d189524ab399
+   Link: https://developer-docs.amazon/sp-api/changelog/november-2022-sp-api-release-announcement
+   Summary: New Tax Reports for India Marketplace The Reports API has been updated to include three new tax reports for the India marketplace: GST Merchant Stock Transfer Report Provides details on inventory movements from Amazon Fulfillment Centers, and contains transaction level details required for accountin...
+
+   269. Introducing Selling Partner API Guard
+   Date: Mon, 24 Oct 2022 16:44:30 GMT
+   GUID: d11002d8-a129-35af-99be-4d30c7a983c2
+   Link: https://developer-docs.amazon/sp-api/changelog/introducing-selling-partner-api-guard
+   Summary: Amazon Selling Partner API Guard (Selling Partner API Guard) is a serverless application that scans Amazon Web Services (AWS) data to assess security compliance with Amazon’s Data Protection Policy . It leverages custom scan rules built with AWS Security services to look for security gaps, and then ...
+
+   270. Update to workflow for retrieving inventory summaries with FBA Inventory API v1
+   Date: Mon, 24 Oct 2022 16:14:37 GMT
+   GUID: c0a2a330-b3ad-3c21-b7c3-b73e28d71bf3
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-workflow-for-retrieving-inventory-summaries-with-fba-inventory-api-v1
+   Summary: When retrieving inventory summaries with the Selling Partner API for FBA Inventory v1 , use both the startDateTime and nextToken to get next page of inventory summaries that have changes after the date and time specified. If you use only nextToken , the results will be incorrect. What is changing? S...
+
+   271. October 2022 SP-API Release Announcement
+   Date: Wed, 19 Oct 2022 22:36:04 GMT
+   GUID: f320b859-b986-3d42-acd1-914e459dcd7f
+   Link: https://developer-docs.amazon/sp-api/changelog/october-2022-sp-api-release-announcement
+   Summary: Notification and reports schemas now available on GitHub We are introducing JSON schemas for reports in the schemas folder of our selling-partner-api-models GitHub repository. Make sure to watch this repo to be notified as we expand our published collection of JSON schemas. Amazon Shipping API v2 no...
+
+   272. Announcing Vendor Central Self-Authorization
+   Date: Tue, 18 Oct 2022 19:02:10 GMT
+   GUID: 6aa64c34-21ce-33b2-b145-4e39f25d1761
+   Link: https://developer-docs.amazon/sp-api/changelog/announcing-vendor-central-self-authorization
+   Summary: As of October 18, 2022 , Vendor Central has replaced the current developer console authorization page with a self-authorization page. This self-authorization page enables users to create authorization grants and generate refresh tokens for multiple vendor groups to a single application. This reduces...
+
+   273. September 2022 SP-API Release Announcement
+   Date: Thu, 22 Sep 2022 00:22:10 GMT
+   GUID: 93d19951-1193-3325-bde5-a614d967ac0e
+   Link: https://developer-docs.amazon/sp-api/changelog/september-2022-sp-api-release-announcement
+   Summary: Vendor Direct Fulfillment updates The Vendor Direct Fulfillment Shipping API v2021-12-28 now includes a createShippingLabels operation. This synchronous operation allows developers to make one call with a restricted data token (RDT) and receive the ship labels as a base64 encoded string in the API r...
+
+   274. Amazon will update display names of select UPS domestic (US) ship methods on SP-API starting September 29, 2022
+   Date: Mon, 29 Aug 2022 19:34:38 GMT
+   GUID: 7294d459-ded9-36fa-8baa-f77fe312862d
+   Link: https://developer-docs.amazon/sp-api/changelog/amazon-will-update-display-names-of-select-ups-domestic-us-ship-methods-on-sp-api-starting-september-29-2022
+   Summary: What is changing? Starting September 29, 2022 , the display names for the following select UPS domestic (US) ship methods will be updated: Old New UPS Ground UPS® Ground UPS 3 Day Select UPS 3 Day Select® UPS Ground UPS® Ground UPS 3 Day Select UPS 3 Day Select® UPS 2nd Day Air UPS 2nd Day Air® UPS ...
+
+   275. August 2022 SP-API Release Announcement
+   Date: Wed, 10 Aug 2022 16:02:19 GMT
+   GUID: 1e7233aa-370b-3d81-b22d-60343138bb58
+   Link: https://developer-docs.amazon/sp-api/changelog/august-2022-sp-api-release-announcement
+   Summary: API Changes Orders v0 Added the EasyShipShipmentStatus enum to describe the shipment status of Easy Ship orders. Services v1 Added new getRangeSlotCapacity operation that provides capacity slots in a format similar to availability records. Added new getFixedSlotCapacity operation that provides capac...
+
+   276. Important: Updates to the Amazon API Services Developer Agreement, Data Protection Policy (DPP), and Acceptable Use Policy (AUP)
+   Date: Mon, 08 Aug 2022 16:42:00 GMT
+   GUID: 91558eb7-edc7-3971-ac77-8eab031b0a62
+   Link: https://developer-docs.amazon/sp-api/changelog/important-updates-to-the-amazon-api-services-developer-agreement-data-protection-policy-dpp-and-acceptable-use-policy-aup
+   Summary: Hi All, We are making updates to the Amazon API Services Developer Agreement , Data Protection Policy (DPP), and Acceptable Use Policy (AUP). These updates will go into effect on August 22, 2022 . These updates may require changes to your existing application security or controls. Key changes to Dev...
+
+   277. Legacy Book Product Types Deprecation
+   Date: Tue, 02 Aug 2022 22:19:32 GMT
+   GUID: 8c929c99-c4b1-337a-92c1-41882ae493c2
+   Link: https://developer-docs.amazon/sp-api/changelog/legacy-books-pts-deprecation
+   Summary: Starting September 12, 2022 , we will accept books related listings only in the ABIS_BOOK product type. The following seven legacy book product types will be deprecated: BOOKS_1973_AND_LATER BOOK BOOKS_PRE_1973 COMIC_BOOK SPARK_BOOKS BLANK_BOOK COLORING_BOOK What is changing? This change will be imp...
+
+   278. New: Selling Partner Reports API on the AWS Cloud - Quick Start Deployment Guide
+   Date: Fri, 29 Jul 2022 19:35:41 GMT
+   GUID: 1ed56f68-a833-37ce-af78-7d45b3526c59
+   Link: https://developer-docs.amazon/sp-api/changelog/new-selling-partner-reports-api-on-the-aws-cloud-quick-start-deployment-guide
+   Summary: On July 21st, 2022, Amazon published the Selling Partner Reports API on the AWS Cloud Quick Start Deployment Guide for the Selling Partner API (SP-API). This QuickStart helps developers create an event-driven architecture in the Amazon Web Services (AWS) cloud that automates the SP-API report creati...
+
+   279. CarrierCode value required in shipment confirmations for BR, MX, CA, SG, AU, IN, JP marketplaces
+   Date: Mon, 25 Jul 2022 18:17:08 GMT
+   GUID: 2227c6e0-b5b1-350e-8dd8-f7830bde7d7c
+   Link: https://developer-docs.amazon/sp-api/changelog/carriercode-value-required-in-shipment-confirmations-for-br-mx-ca-sg-au-in-jp-marketplaces
+   Summary: Amazon will only accept shipment confirmation that includes a CarrierCode value for all seller-fulfilled orders using Bulk feeds, APIs, or integrations. This change goes into effect for the following marketplaces on these dates: Brazil, Mexico, Australia, Canada starting July 25, 2022 . India and Si...
+
+   280. SP-API Throttling Adjustments
+   Date: Tue, 21 Jun 2022 18:26:05 GMT
+   GUID: 89de2d54-7ff2-3716-947c-0ab792f9a3b2
+   Link: https://developer-docs.amazon/sp-api/changelog/sp-api-throttling-adjustments
+   Summary: Effective August 31, 2022 , we will be adjusting the rates across select API operations within the Catalog Items API, Product Fees API , and Product Pricing API . These adjustments will lower the rates of the 1x1 APIs. We encourage you to call the equivalent batch APIs for use cases requiring a high...
+
+   281. Deprecation Notice: Suppressed listings reports and FBA Inventory reports
+   Date: Mon, 13 Jun 2022 17:16:55 GMT
+   GUID: 14e4f4a5-7efd-3951-8a0b-540dca06ce8e
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-notice-suppressed-listings-reports-and-fba-inventory-reports
+   Summary: As a reminder, effective June 15, 2022 , the _GET_MERCHANT_LISTINGS_DEFECTDATA and _LISTINGS_DEFECT_REPORTXL reports will no longer be available in MWS or Selling Partner API. The replacement report _GET_MERCHANTS_LISTINGS_FYPREPORT is currently available in MWS and SP-API. Please plan to move to th...
+
+   282. May 2022 SP-API Release Announcement
+   Date: Wed, 18 May 2022 21:04:28 GMT
+   GUID: b7a615e2-bac5-3e1a-8d4b-074543278814
+   Link: https://developer-docs.amazon/sp-api/changelog/may-2022-sp-api-release-announcement
+   Summary: Updated May 20, 2022 for minor correction to report type category New version of Catalog Items API The new Catalog Items API version 2022-04-01 improves the API experience and addresses developer feedback with the following changes: Added identifier-based searches to the searchCatalogItems operation...
+
+   283. New DHL ship methods available for Buy Shipping effective May 9, 2022
+   Date: Tue, 10 May 2022 16:13:28 GMT
+   GUID: edda4235-4caf-3075-8d55-08adc39c0a6a
+   Link: https://developer-docs.amazon/sp-api/changelog/new-dhl-ship-methods-available-for-buy-shipping-effective-may-9-2022
+   Summary: Developers with applications that use the Merchant Fulfillment API should be aware that DHL ship methods are now available to selling partners in the EU marketplace. Selling partners may contact developers for support to set up DHL ship methods for their Amazon business, especially for Seller Fulfil...
+
+   284. Update to the FBA Quantity report for EU
+   Date: Mon, 02 May 2022 21:15:05 GMT
+   GUID: 969b7330-a8c3-3786-8007-3b352f1efcc7
+   Link: https://developer-docs.amazon/sp-api/changelog/update-to-the-fba-quantity-report-for-eu
+   Summary: Effective today, May 2, 2022, we are changing the _GET_FBA_MYI_ALL_INVENTORYDATA and _GET_FBA_MYI_UNSUPPRESSED_INVENTORYDATA report types for the Spain, UK, France, Germany, and Italy marketplaces. Two new columns are being added, afn-fulfillable-quantity-local and afn-fulfillable-quantity-remote , ...
+
+   285. software_update_supported_to_date Attribute Added to XSDs for EU Marketplaces
+   Date: Tue, 26 Apr 2022 17:31:58 GMT
+   GUID: 89d657fa-efd7-3c74-9f6c-f5d7dddf07ee
+   Link: https://developer-docs.amazon/sp-api/changelog/software-update-supported-to-date-attribute-added-to-xsds-for-eu-marketplaces
+   Summary: As of April 26, 2022 , Amazon will introduce a new attribute called software_update_supported_to_date across 49 Product Types and related XSDs in 8 European marketplaces. This is a new, optional attribute, representing the last date until which software updates will be supported by manufacturers for...
+
+   286. Application Authorization Limits and Listing Restrictions
+   Date: Mon, 25 Apr 2022 19:29:20 GMT
+   GUID: 916f6cdf-180b-3fb0-a9a5-47065899bfa7
+   Link: https://developer-docs.amazon/sp-api/changelog/application-authorization-limits-and-listing-restrictions
+   Summary: Beginning April 25, 2022, we will introduce application authorization limits and restrict application listing on the Amazon Selling Partner Appstore to public applications. These limits are dependent on the Developer’s data access type (public or private developer) which was selected in your Develop...
+
+   287. Important Notice: Discontinued Support - LWA Tokens can no longer retrieve PII in Selling Partner API
+   Date: Wed, 20 Apr 2022 21:55:15 GMT
+   GUID: 3571989f-2a83-35be-b9f4-a8a2868d415b
+   Link: https://developer-docs.amazon/sp-api/changelog/important-notice-discontinued-support-lwa-tokens-can-no-longer-retrieve-pii-in-selling-partner-api
+   Summary: 📘 Note: Update to this announcement: Refer to UPDATE: Discontinued Support - LWA Tokens can no longer retrieve PII in Selling Partner API for important updates to this announcement regarding LWA Tokens availability. Effective July 31, 2023 August 31, 2023, Developer applications must use the new ac...
+
+   288. Sales and Traffic Business Report will contain traffic information from the Amazon Mobile app
+   Date: Tue, 19 Apr 2022 18:45:11 GMT
+   GUID: c051078e-a120-3f0c-94e8-4782cab677a9
+   Link: https://developer-docs.amazon/sp-api/changelog/sales-and-traffic-business-report-will-contain-traffic-information-from-the-amazon-mobile-app
+   Summary: Effective April 19, 2022 , the Sales and Traffic Business Report (44900) will contain traffic information from the Amazon Mobile App Data. What is changing? Starting April 19, 2022, the Selling Partner-API Report Sales and Traffic Business Report will also vend traffic information from the Amazon Mo...
+
+   289. April 2022 SP-API Release Announcement
+   Date: Wed, 13 Apr 2022 22:07:56 GMT
+   GUID: 47282d55-6acf-3742-bcc1-946548a1d567
+   Link: https://developer-docs.amazon/sp-api/changelog/april-2022-sp-api-release-announcement
+   Summary: Introducing Partner Network News by Amazon Seller Central Partner Network Our new Partner Network News site is located at https://developer.amazonservices.com/newsletter . You can peruse the current issue, search through past issues, vote, and submit feedback on content. We’ll use your feedback to h...
+
+   290. March 2022 SP-API Release Announcement
+   Date: Thu, 24 Mar 2022 00:04:27 GMT
+   GUID: f0888345-f7f9-3d4f-99fb-f0a055a28bfd
+   Link: https://developer-docs.amazon/sp-api/changelog/march-2022-sp-api-release-announcement
+   Summary: Introducing our new Selling Partner API Blog Today, we launch the new Selling Partner API blog site at https://developer-docs.amazon.com/sp-api-blog/docs . The blog offers articles from Amazon Solution Architects and API experts covering a range of topics related to Selling Partner API. We hope you ...
+
+   291. Important update regarding UPS shipping labels purchased via Amazon
+   Date: Wed, 16 Mar 2022 18:25:18 GMT
+   GUID: f929c452-7cd6-3691-9b02-6751acc9459f
+   Link: https://developer-docs.amazon/sp-api/changelog/important-update-regarding-ups-shipping-labels-purchased-via-amazon
+   Summary: Developers with applications that use the Merchant Fulfillment API should be aware that selling partners may contact them with questions regarding UPS shipping labels purchased via Amazon. When sellers purchase UPS labels through Amazon tools, those labels appear to be from Amazon itself, which comp...
+
+   292. Deprecation of _GET_MERCHANT_LISTINGS_DEFECT_DATA_ and _LISTINGS_DEFECT_REPORT_XL_
+   Date: Tue, 15 Mar 2022 22:32:28 GMT
+   GUID: 51d693fa-6b3e-3b0c-8364-0094669da48e
+   Link: https://developer-docs.amazon/sp-api/changelog/deprecation-of-get_merchant_listings_defect_data-and-listings_defect_report_xl
+   Summary: Effective June 15, 2022 , the _GET_MERCHANT_LISTINGS_DEFECTDATA and _LISTINGS_DEFECT_REPORTXL reports will no longer be available in MWS or Selling Partner API. The replacement report _GET_MERCHANTS_LISTINGS_FYPREPORT is currently available in MWS and SP-API. Please plan to move to this new report p...
+
+   293. Reminder: Apache Log4j vulnerabilities
+   Date: Thu, 10 Feb 2022 22:44:42 GMT
+   GUID: eb5b0753-5930-384d-ae00-d91611885dd0
+   Link: https://developer-docs.amazon/sp-api/changelog/reminder-apache-log4j-vulnerabilities
+   Summary: As Developers, you are aware of the Apache Log4j vulnerabilities published in December 2021, including but not limited to (CVE-2021-4104, CVE-2021-45046, CVE-2021-44228). This notice is to remind all Selling Partner API developers to ensure that all systems containing Amazon data are protected from ...
+
+   294. XSDs available for Phase 3 of New Product Types and Template Changes
+   Date: Wed, 09 Feb 2022 19:48:56 GMT
+   GUID: 57c99b89-62da-314f-bc81-6a91570b883b
+   Link: https://developer-docs.amazon/sp-api/changelog/xsds-available-for-phase-3-of-new-product-types-and-template-changes
+   Summary: As previously announced , Amazon is launching new Product Types across XSDs worldwide. The goal is to enhance product search and a simplify product overviews by providing key product information in a structured format at the top of product detail pages instead of unstructured bullet points. This wil...
+
+   295. Escaping Issue Impacting Selling Partner API Operations
+   Date: Mon, 24 Jan 2022 19:02:48 GMT
+   GUID: c5844188-d41c-3719-9c5b-2e5c30947627
+   Link: https://developer-docs.amazon/sp-api/changelog/escaping-issue-impacting-selling-partner-api-operations
+   Summary: On January 20, 2022, an escaping issue was identified affecting most Selling Partner API operations resulting in escape characters, such as quotes ( " ) and backslashes ( \ ), being double-escaped in API request and response payloads. This issue has been resolved. Please review the remainder of this...
+
+   296. Welcome to the new SP-API Documentation site
+   Date: Wed, 19 Jan 2022 23:39:15 GMT
+   GUID: 6eb4918c-8030-3739-9f2f-f13c47d7d6cd
+   Link: https://developer-docs.amazon/sp-api/changelog/welcome-to-the-new-sp-api-documentation-site
+   Summary: We're excited to launch this new documentation site for English Selling Partner API documentation. There are several areas for you to explore: Home is the main page and we encourage you to bookmark it for easy access to the site. Documentation is where all the content lives; the SP-API Developer Gui...
+
+   297. January 2022 SP-API Release
+   Date: Wed, 19 Jan 2022 23:32:21 GMT
+   GUID: 9e4a5f1f-d244-3e09-af03-6c33d8c5b6cd
+   Link: https://developer-docs.amazon/sp-api/changelog/january-2022-sp-api-release-1
+   Summary: We are looking forward to serving you new and improved products and services this year. Today, January, 19, 2022, is our first release of the year. Introducing our new Selling Partner API documentation site Today, we launch the new Selling Partner API documentation site at https://developer-docs.ama...
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Report generated by Amazon RSS Monitor
+© 2026
