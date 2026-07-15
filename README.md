@@ -28,15 +28,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deployment on Streamlit Cloud
-
-1. Push this repository to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click "New app"
-4. Select your repository and branch
-5. Set main file path to `app.py`
-6. Click "Deploy"
-
 ## License
 
 MIT
